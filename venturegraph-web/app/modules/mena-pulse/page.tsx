@@ -13,6 +13,8 @@ import {
   loadObjects, loadInvPanel, loadAcquisitions, loadIpos,
 } from "@/lib/data";
 import { fmtInt, groupBy } from "@/lib/utils";
+import path from "node:path";
+import fs from "node:fs/promises";
 
 export const dynamic = "force-dynamic";
 export const metadata: Metadata = { title: "MENA Pulse · VentureGraph Sovereign" };
@@ -26,18 +28,41 @@ const MENA_COUNTRIES = new Set([
 ]);
 const GCC_COUNTRIES = new Set(["ARE", "SAU", "KWT", "BHR", "QAT", "OMN", "UAE", "SA", "KW", "BH", "QA", "OM"]);
 
+async function loadMenaStatic() {
+  try {
+    const p = path.join(process.cwd(), "public", "data", "mena_data.json");
+    const raw = await fs.readFile(p, "utf-8");
+    return JSON.parse(raw) as { objects: unknown[]; investments: unknown[]; acquisitions: unknown[]; ipos: unknown[] };
+  } catch { return null; }
+}
+
 export default async function MenaPulsePage() {
   const m = moduleBySlug("mena-pulse")!;
-  const [objects, invPanel, acq, ipos] = await Promise.all([
-    loadObjects(), loadInvPanel(), loadAcquisitions(), loadIpos(),
-  ]);
 
-  // ── MENA objects (companies, investors, etc.) ─────────────────────────
-  const menaObjects = objects.filter(
-    (o) => o.country_code && MENA_COUNTRIES.has(String(o.country_code).toUpperCase()),
-  );
-  const gccObjects  = menaObjects.filter(
-    (o) => GCC_COUNTRIES.has(String(o.country_code).toUpperCase()),
+  // Try static JSON first (Vercel), fall back to CSV loaders (local dev)
+  const staticData = await loadMenaStatic();
+  type Obj = Record<string, unknown>;
+  let menaObjects: Obj[], acq: Obj[], ipos: Obj[], invPanel: Obj[];
+
+  if (staticData) {
+    menaObjects = staticData.objects   as Obj[];
+    acq         = staticData.acquisitions as Obj[];
+    ipos        = staticData.ipos      as Obj[];
+    invPanel    = staticData.investments as Obj[];
+  } else {
+    const [objects, inv, acqRaw, iposRaw] = await Promise.all([
+      loadObjects(), loadInvPanel(), loadAcquisitions(), loadIpos(),
+    ]);
+    menaObjects = (objects as Obj[]).filter(
+      (o) => o.country_code && MENA_COUNTRIES.has(String(o.country_code).toUpperCase()),
+    );
+    acq      = acqRaw as Obj[];
+    ipos     = iposRaw as Obj[];
+    invPanel = inv as Obj[];
+  }
+
+  const gccObjects = menaObjects.filter(
+    (o) => GCC_COUNTRIES.has(String(o.country_code ?? "").toUpperCase()),
   );
 
   // Country breakdown
