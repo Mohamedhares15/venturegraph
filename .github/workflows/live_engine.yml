@@ -1,14 +1,16 @@
 name: VentureGraph Live Engine
 
+# GitHub Pro + public repo = unlimited free Actions minutes
+# Ingestion: every 5 min (Actions platform minimum)
+# Signals:   every 2 hours
+# Market:    US open (14:30 UTC) + US close (21:30 UTC)
+
 on:
   schedule:
-    # Loop 1: Ingest every hour (fits GitHub free tier: 24×2min×31d = ~1,488 min/month)
-    - cron: "0 * * * *"
-    # Loop 2: Signal engine every 6 hours
-    - cron: "0 */6 * * *"
-    # Loop 3: Market benchmark daily at 21:30 UTC (after US close)
-    - cron: "30 21 * * *"
-  # Allow manual trigger from GitHub Actions UI
+    - cron: "*/5 * * * *"     # Loop 1: ingest every 5 minutes
+    - cron: "0 */2 * * *"    # Loop 2: signals every 2 hours
+    - cron: "30 14 * * 1-5"  # Loop 3: market — US open (Mon-Fri)
+    - cron: "30 21 * * 1-5"  # Loop 3: market — US close (Mon-Fri)
   workflow_dispatch:
     inputs:
       loop:
@@ -18,12 +20,15 @@ on:
         type: choice
         options: [ingest, signal, market, all]
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.schedule || 'manual' }}
+  cancel-in-progress: false
+
 jobs:
   ingest:
-    name: "Loop 1 · Ingest"
+    name: "Loop 1 · Ingest (every 5 min)"
     runs-on: ubuntu-latest
-    # Only run on the 15-min cron (first schedule entry)
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 * * * *'
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '*/5 * * * *'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,7 +36,7 @@ jobs:
           python-version: "3.12"
           cache: "pip"
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt --quiet
       - name: Run ingestion
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -40,9 +45,9 @@ jobs:
         run: python live/run_all.py --loop ingest
 
   signal:
-    name: "Loop 2 · Signal Engine"
+    name: "Loop 2 · Signal Engine (every 2 hrs)"
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 */6 * * *'
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 */2 * * *'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -50,7 +55,7 @@ jobs:
           python-version: "3.12"
           cache: "pip"
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt --quiet
       - name: Run signal engine
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -58,9 +63,12 @@ jobs:
         run: python live/run_all.py --loop signal
 
   market:
-    name: "Loop 3 · Market Benchmark"
+    name: "Loop 3 · Market Benchmark (US open + close)"
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '30 21 * * *'
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '30 14 * * 1-5' ||
+      github.event.schedule == '30 21 * * 1-5'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -68,7 +76,7 @@ jobs:
           python-version: "3.12"
           cache: "pip"
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt --quiet
       - name: Run market benchmark
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
