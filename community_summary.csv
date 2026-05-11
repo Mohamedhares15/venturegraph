@@ -1,0 +1,36 @@
+community_id,size,top_investors,mean_out_degree,mean_in_degree,mean_tps,top_sectors,top_countries,pct_series_a
+13,361,"SV Angel, First Round Capital, Ron Conway, True Ventures, Felicis Ventures",6.752,5.942,0.2398,"web, software, advertising",unknown,0.641
+2,231,"Draper Fisher Jurvetson (DFJ), Sigma Partners, Draper Richards, Mohr Davidow Ventures, Foundation Capital",2.712,2.892,0.0681,"software, web, enterprise",unknown,0.518
+3,210,"Kleiner Perkins Caufield & Byers, Benchmark, Index Ventures, Greylock Partners, Shasta Ventures",5.045,5.577,0.3614,"web, software, mobile",unknown,0.627
+18,199,"Battery Ventures, BDC Venture Capital, DCM, Morgenthaler Ventures, GrowthWorks Capital",2.709,2.726,0.0855,"software, mobile, enterprise",unknown,0.516
+10,186,"New Enterprise Associates, Venrock, Highland Capital Partners, Canaan Partners, US Venture Partners",3.098,3.37,0.1127,"software, biotech, web",unknown,0.55
+34,175,"Accel Partners, FLOODGATE, Redpoint Ventures, Norwest Venture Partners, Bay Partners",3.327,3.606,0.258,"software, enterprise, web",unknown,0.628
+5,165,"Sequoia Capital, Lightspeed Venture Partners, Trinity Ventures, Matrix Partners, Gemini Israel ventures",3.303,3.352,0.1493,"web, software, enterprise",unknown,0.57
+38,156,"Bessemer Venture Partners, Polaris Partners, InterSouth Partners, OVP Venture Partners, TVM Capital",3.474,3.751,0.1229,"biotech, software, medical",unknown,0.504
+0,150,"General Catalyst Partners, North Bridge Venture Partners, Austin Ventures, InterWest Partners, CommonAngels",2.871,3.303,0.0691,"software, enterprise, biotech",unknown,0.487
+4,130,"500 Startups, Founder Collective, Google Ventures, Atlas Venture, Foundry Group",5.098,4.576,0.1419,"software, enterprise, ecommerce",unknown,0.623
+23,129,"Atomico, Flybridge Capital Partners, Storm Ventures, Timothy Draper, Emergence Capital Partners",3.144,3.109,0.0817,"software, web, enterprise",unknown,0.504
+29,129,"CrÃ©dit Agricole Private Equity, Life Sciences Partners, Ventech, Sofinnova Partners, Partech Ventures",1.691,1.664,0.0243,"biotech, software, mobile",unknown,0.524
+28,123,"Oak Investment Partners, Adams Street Partners, Johnson & Johnson Development Corporation, Vulcan Capital, vSpring Capital",2.281,2.838,0.0446,"biotech, software, web",unknown,0.429
+22,85,"Madrona Venture Group, Ignition Partners, Max Levchin, Sutter Hill Ventures, Rich Barton",3.689,2.977,0.2037,"software, enterprise, web",unknown,0.719
+17,84,"Intel Capital, Esther Dyson, Columbia Capital, Scottish Equity Partners, Qualcomm Ventures",2.637,3.152,0.0863,"software, enterprise, mobile",unknown,0.536
+85,84,"Greycroft Partners, Zelkova Ventures, Mayfield Fund, ff Venture Capital, Jason Finger",5.911,5.345,0.1841,"advertising, software, enterprise",unknown,0.639
+40,63,"High-Tech Gruenderfonds, Blumberg Capital, Earlybird Venture Capital, T-Venture, Point Nine Capital",1.371,1.389,0.0115,"biotech, advertising, mobile",unknown,0.472
+19,35,"MHS Capital, Quest Venture Partners, Kodiak Venture Partners, Borealis Ventures, Advent Venture Partners",2.538,2.44,0.0764,"software, advertising, mobile",unknown,0.672
+36,35,"Tech Coast Angels, LaunchPad Venture Group, Cherrystone, Rincon Venture Partners, Beacon Angels",2.635,2.39,0.0274,"biotech, enterprise, software",unknown,0.498
+57,21,"Sumitomo Corporation, Mitsubishi Corporation, Nippon Technology Venture Partners, Inova, Nippon Venture Capital",0.876,0.86,0.007,"mobile, games_video, enterprise",unknown,0.546
+44,14,"Nauta Capital, Steelpoint Capital Partners, Caja Navarra, CorporacciÃÂ³nCan - Grupo Corporativo Empresarial Caja Navara, Joaquin Engel",1.649,1.833,0.0257,"software, mobile, enterprise",unknown,0.555
+50,10,"Siemer Ventures, Frontera Capital, The Angels' Forum, Meritage Funds, AO Capital Partners",2.165,2.342,0.0082,"mobile, advertising, web",unknown,0.422
+32,10,"McKay Trust, L&P Investments, Clevedon Pastoral Holdings, Excelsior Asset Mgt LLC, Joinwell Finance",0.635,0.635,0.0,software,unknown,0.167
+74,9,"Cabiedes & Partners, Gestora de Finances per Emprenedor, Highgrowth Partners, Active Venture Partners, Atrapalo",0.559,0.559,0.0,"ecommerce, mobile, hospitality",unknown,0.73
+24,8,"Dan Gilbert, Detroit Venture Partners, CPoWeR Ventures, Compuware, Compuware Ventures",0.546,0.546,0.0,"software, web, analytics",unknown,0.865
+68,7,"Capricorn Management, Israel Cleantech Ventures, BASF Venture Capital, Capricorn Venture Partners, DB Masdar Fund",0.9,0.9,0.0,"cleantech, biotech, medical",unknown,0.31
+81,7,"Alexandra Investment Management, Bill Bradley, KVK, Lu Pat Ng, Murat Vargi",0.604,0.604,0.0165,search,unknown,0.929
+26,7,"Bohemian Investments, Infield Capital, Shanghai Alliance, Southern Ute, Valero Energy",0.772,0.772,0.0,"cleantech, other",unknown,0.738
+86,6,"Gene DeRose, Kurt Abrahamson, Patrick Keane, Robert Kavner, Jon Kiehnau",0.636,0.636,0.0,"advertising, mobile, music",unknown,0.75
+52,6,"10 Others, BON Fund, Broadhorn Capital, Interstate Enterprises, Jeff Tegethoff",0.445,0.445,0.0,enterprise,unknown,0.833
+16,6,"Liron Rose, Omer Kaplan, Yossi Vardi, Docor International Management, Lord David Alliance",0.824,0.824,0.0,"other, software, biotech",unknown,0.639
+69,5,"Jim McNiel, Bergstein, Gund Investment, LLC, Persistency Capital, Wheatley Partners",1.41,1.41,0.0,"public_relations, biotech, games_video",unknown,0.367
+65,5,"Dmitry Khan, Dmitry Kushaev, Mikhail Kokorich, Sergey Ivanov, I2BF Global Ventures",0.473,0.473,0.0,"analytics, cleantech",unknown,0.8
+96,5,"Wageningen Business Generator, Lupus Ventures, PPM Oost, Technofund Flevoland, Biox Biosciences",1.814,1.814,0.0,"biotech, hardware, software",unknown,0.5
+94,5,"OSEO Innovation, Bretagne Jeunes, Fa Diese 2, Ouest Ventures, Paca Entreprendre",0.788,0.788,0.0,"hardware, software, mobile",unknown,0.333

@@ -1,0 +1,341 @@
+id,name,category_code
+edgar_c_4ab4b9b59c5e,MICROSOFT CORP,other
+edgar_c_5714d95fddad,"Tesla, Inc.",other
+edgar_c_710276817698,VISA INC.,other
+edgar_c_32bf5042bbb7,INTEL CORP,other
+edgar_c_f1c69ae89c95,Palantir Technologies Inc.,other
+edgar_c_a63ce998f4a7,"HOME DEPOT, INC.",other
+edgar_c_87a5206e4851,TOYOTA MOTOR CORP/,other
+edgar_c_0788fc7c2f41,SHOPIFY INC.,other
+edgar_c_b1338288226e,AppLovin Corp,other
+edgar_c_332d28c62b31,"Uber Technologies, Inc",other
+edgar_c_c54524af27e2,"Marvell Technology, Inc.",other
+edgar_c_f4944d9881ef,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",other
+edgar_c_0a01c966d271,ADVANTEST CORP,other
+edgar_c_c54d2193bd1c,Booking Holdings Inc.,other
+edgar_c_57216f7c97ad,ENBRIDGE INC,other
+edgar_c_bb6696e606aa,EQUINIX INC,other
+edgar_c_245e3620b331,SYNOPSYS INC,other
+edgar_c_524a5acb3b86,"ServiceNow, Inc.",other
+edgar_c_4142d3a888aa,Spotify Technology S.A.,other
+edgar_c_93c14748e8f1,AGNICO EAGLE MINES LTD,other
+edgar_c_153698fcb7d4,BAE SYSTEMS PLC /FI/,other
+edgar_c_51aae27061f7,FREEPORT-MCMORAN INC,other
+edgar_c_23b2e72f59f7,MOODYS CORP /DE/,other
+edgar_c_def4b2ca2da8,"Apollo Global Management, Inc.",other
+edgar_c_7b842ef4c8c7,Energy Transfer LP,other
+edgar_c_ba1b5c74f9b3,Nu Holdings Ltd.,other
+edgar_c_52a3074754ab,"CoreWeave, Inc.",other
+edgar_c_eaebf31a9b29,Targa Resources Corp.,other
+edgar_c_3940a0a975ef,"Autodesk, Inc.",other
+edgar_c_510529e21cb9,Snowflake Inc.,other
+edgar_c_8a9cbd061855,GREAT-WEST LIFECO INC.,other
+edgar_c_da288471bb96,"Block, Inc.",other
+edgar_c_dac7d3dee428,TAKE TWO INTERACTIVE SOFTWARE INC,other
+edgar_c_f10e4b197dfb,"JD.com, Inc.",other
+edgar_c_e50b371064c2,SUN LIFE FINANCIAL INC,other
+edgar_c_656f05f9938d,HEICO CORP,other
+edgar_c_54bdc127464b,"Astera Labs, Inc.",other
+edgar_c_f8fbde22f3e2,Roblox Corp,other
+edgar_c_9bc5de975c02,MASTEC INC,other
+edgar_c_3e52375977b6,Credo Technology Group Holding Ltd,other
+edgar_c_a905d3cb97aa,"Reddit, Inc.",other
+edgar_c_923da4451e65,COPART INC,other
+edgar_c_fe3187181981,DEVON ENERGY CORP/DE,other
+edgar_c_7bf06bf84f9a,"AXON ENTERPRISE, INC.",other
+edgar_c_4a275f5dfa75,"Revolution Medicines, Inc.",other
+edgar_c_9679f610e433,VICI PROPERTIES INC.,other
+edgar_c_871fb40aac42,TWILIO INC,other
+edgar_c_6f142ea8d28a,PEMBINA PIPELINE CORP,other
+edgar_c_861c22203a02,FIRSTENERGY CORP,other
+edgar_c_8e769fdd3682,"AST SpaceMobile, Inc.",other
+edgar_c_b22918f81585,TOWER SEMICONDUCTOR LTD,other
+edgar_c_7c1c768f3c4b,BioNTech SE,other
+edgar_c_47337f6c85b8,"Everpure, Inc.",other
+edgar_c_9bfc4e94a84b,"Zscaler, Inc.",other
+edgar_c_6cb51dbf6329,CHURCH & DWIGHT CO INC /DE/,other
+edgar_c_ad56cd251246,Brookfield Renewable Partners L.P.,other
+edgar_c_2b41759cb1ad,"SoFi Technologies, Inc.",other
+edgar_c_d6777865eff8,GLOBAL PAYMENTS INC,other
+edgar_c_98f1ec76ebf7,Madison Air Solutions Corp,other
+edgar_c_e8c12e3691a4,Fortive Corp,other
+edgar_c_cf9ed15b2416,"Coeur Mining, Inc.",other
+edgar_c_e9875c350303,WOLTERS KLUWER N V /FI,other
+edgar_c_a15706040d48,Talen Energy Corp,other
+edgar_c_2dc861c5d1c8,EAST WEST BANCORP INC,other
+edgar_c_e2ba307fb539,ALAMOS GOLD INC,other
+edgar_c_b91de619b7d1,"ZIMMER BIOMET HOLDINGS, INC.",other
+edgar_c_9b19e1f0b5d4,BLUE OWL CAPITAL INC.,other
+edgar_c_ce7210af0f47,SOMNIGROUP INTERNATIONAL INC.,other
+edgar_c_9da83d5902ad,Legence Corp.,other
+edgar_c_a263feaf0d4b,SITIME Corp,other
+edgar_c_22339b047e12,ONTO INNOVATION INC.,other
+edgar_c_ce35fcbacdd5,Warner Music Group Corp.,other
+edgar_c_a6be37dfcfa7,Ascendis Pharma A/S,other
+edgar_c_e93e8c875ac6,"QXO, Inc.",other
+edgar_c_84c6e5c9cf62,PERSHING SQUARE INC.,other
+edgar_c_d0d3d3df65de,Lytus Technologies Holdings PTV. Ltd.,other
+edgar_c_30fdd094851d,Planet Labs PBC,other
+edgar_c_3b20ab02a33b,Ally Financial Inc.,other
+edgar_c_6043348b406e,Summit Therapeutics Inc.,other
+edgar_c_001489cee4c5,"BITMINE IMMERSION TECHNOLOGIES, INC.",other
+edgar_c_c1aaac09ca25,Penumbra Inc,other
+edgar_c_7a0d42c1755e,Daiwa Securities Group Inc.,other
+edgar_c_8aa70f34035d,CNH Industrial N.V.,other
+edgar_c_f23978924e87,PINNACLE WEST CAPITAL CORP,other
+edgar_c_0183b3b302f2,"BJ's Wholesale Club Holdings, Inc.",other
+edgar_c_7f3669a7fe60,RAMBUS INC,other
+edgar_c_9d1013423a99,"MADRIGAL PHARMACEUTICALS, INC.",other
+edgar_c_fe4d4a2020b2,HECLA MINING CO/DE/,other
+edgar_c_816c2996346d,DraftKings Inc.,other
+edgar_c_66d543b347ff,"Nutanix, Inc.",other
+edgar_c_a798417784d3,"Axsome Therapeutics, Inc.",other
+edgar_c_f6d4411d5894,"ASSURANT, INC.",other
+edgar_c_c719583c2bd3,VICOR CORP,other
+edgar_c_b7261d55501f,"DigitalOcean Holdings, Inc.",other
+edgar_c_0760f5da4f24,Equinox Gold Corp.,other
+edgar_c_ad9bbc4bdb78,AECOM,other
+edgar_c_bb021c82155e,Gildan Activewear Inc.,other
+edgar_c_61251b9cec1a,"ARROWHEAD PHARMACEUTICALS, INC.",other
+edgar_c_967c4fc4b2d2,"ZILLOW GROUP, INC.",other
+edgar_c_1dfe40da380c,"Figma, Inc.",other
+edgar_c_e760341cbe09,"HOULIHAN LOKEY, INC.",other
+edgar_c_b3b48d3daa4e,"Globalstar, Inc.",other
+edgar_c_51718cfebfcf,FORMFACTOR INC,other
+edgar_c_8cd5d79b3ea6,"CAVA GROUP, INC.",other
+edgar_c_747a123a2667,"BrightSpring Health Services, Inc.",other
+edgar_c_32221c0e0813,J M SMUCKER Co,other
+edgar_c_8686cd15ee21,"Texas Roadhouse, Inc.",other
+edgar_c_4cf10a5e5072,Maplebear Inc.,other
+edgar_c_e7ea1d933744,Applied Digital Corp.,other
+edgar_c_7d0557fa26f1,"Tempus AI, Inc.",other
+edgar_c_8e3cdc70395c,CHART INDUSTRIES INC,other
+edgar_c_8d527a13bb80,"REVVITY, INC.",other
+edgar_c_3c32b6e0cd99,FIRST MAJESTIC SILVER CORP,other
+edgar_c_7815ac6679ae,"DOCUSIGN, INC.",other
+edgar_c_66a881e8ba8a,"Praxis Precision Medicines, Inc.",other
+edgar_c_98536256540d,"PROCORE TECHNOLOGIES, INC.",other
+edgar_c_46df28a5952b,AeroVironment Inc,other
+edgar_c_0b2d13dbe192,"Lineage, Inc.",other
+edgar_c_2314e39899aa,"Joby Aviation, Inc.",other
+edgar_c_ad7f1ce77b60,VIASAT INC,other
+edgar_c_0906148f121b,"Celsius Holdings, Inc.",other
+edgar_c_70f4be3b67d6,Freedom Holding Corp.,other
+edgar_c_ef9d90d0f301,CAMTEK LTD,other
+edgar_c_170f75421439,"Chime Financial, Inc.",other
+edgar_c_c71da80f30b7,"Krystal Biotech, Inc.",other
+edgar_c_7dcdd39a372b,"Vaxcyte, Inc.",other
+edgar_c_0f8e38f32e20,"Nuvalent, Inc.",other
+edgar_c_526c290f5391,JANUS HENDERSON GROUP PLC,other
+edgar_c_b8d01e47c0bf,NATIONAL FUEL GAS CO,other
+edgar_c_78468d5dca90,Norwegian Cruise Line Holdings Ltd.,other
+edgar_c_629e18cf9a19,"RYAN SPECIALTY HOLDINGS, INC.",other
+edgar_c_35777aca80ed,D-Wave Quantum Inc.,other
+edgar_c_2d435a6ac4a0,"ImmunityBio, Inc.",other
+edgar_c_8ab3b066ca00,"AAON, INC.",other
+edgar_c_ff9ff66aec2c,URANIUM ENERGY CORP,other
+edgar_c_cbfc46558716,"Clearwater Analytics Holdings, Inc.",other
+edgar_c_78dd0a079b33,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",other
+edgar_c_dcb9529bb870,"Riot Platforms, Inc.",other
+edgar_c_068581380513,"Construction Partners, Inc.",other
+edgar_c_b01bced64981,Celcuity Inc.,other
+edgar_c_59ffb85d508b,Terreno Realty Corp,other
+edgar_c_02ed23e529c7,Aura Minerals Inc.,other
+edgar_c_163609282de5,"Klaviyo, Inc.",other
+edgar_c_49f652647706,OceanaGold Corp,other
+edgar_c_3ee080283b6f,REPLIGEN CORP,other
+edgar_c_3cb094b01bd3,"Core Scientific, Inc./tx",other
+edgar_c_8639be6012b0,"Mirum Pharmaceuticals, Inc.",other
+edgar_c_9e8dbb4edd3e,LITHIA MOTORS INC,other
+edgar_c_846bb54a12ec,"Protagonist Therapeutics, Inc",other
+edgar_c_d735323f4552,"Cogent Biosciences, Inc.",other
+edgar_c_b7996bef1b2e,"GLACIER BANCORP, INC.",other
+edgar_c_d04d9fce35c1,PJT Partners Inc.,other
+edgar_c_06366cee022a,APPFOLIO INC,other
+edgar_c_1b0b663eba19,California Resources Corp,other
+edgar_c_f22fee17e9d9,"Terns Pharmaceuticals, Inc.",other
+edgar_c_b934bfd7b8a3,National Storage Affiliates Trust,other
+edgar_c_d691dc348c1f,"ServiceTitan, Inc.",other
+edgar_c_c40ce2f8803c,"Kodiak Gas Services, Inc.",other
+edgar_c_28fd9c9ce48e,"Spyre Therapeutics, Inc.",other
+edgar_c_eae827c3e15e,OPEN TEXT CORP,other
+edgar_c_bef0121ebf13,"Rigetti Computing, Inc.",other
+edgar_c_86fcb12241c0,"RHYTHM PHARMACEUTICALS, INC.",other
+edgar_c_63d387c9bced,Blue Owl Capital Corp,other
+edgar_c_fb4749274b39,"EPAM Systems, Inc.",other
+edgar_c_fb985561af03,Blackstone Secured Lending Fund,other
+edgar_c_c3a51147dfe4,Ameris Bancorp,other
+edgar_c_685b3cc584b9,B2GOLD CORP,other
+edgar_c_346b83a935fb,"TG THERAPEUTICS, INC.",other
+edgar_c_7b26900c3b33,"UiPath, Inc.",other
+edgar_c_c550af46ef97,"Immunovant, Inc.",other
+edgar_c_1bc26eda467f,ADT Inc.,other
+edgar_c_2a1faed6e492,Klarna Group plc,other
+edgar_c_3d0d544c3dad,"Oscar Health, Inc.",other
+edgar_c_b456b6d21635,Scholar Rock Holding Corp,other
+edgar_c_574e6dd6a153,PIPER SANDLER COMPANIES,other
+edgar_c_85a8626c4bc6,BRUKER CORP,other
+edgar_c_3d4f88839a24,Almonty Industries Inc.,other
+edgar_c_2096de694279,Acushnet Holdings Corp.,other
+edgar_c_1d1713da7e54,"Avantor, Inc.",other
+edgar_c_8f85d17b4ec3,OUTFRONT Media Inc.,other
+edgar_c_c122ae466aff,"PTC THERAPEUTICS, INC.",other
+edgar_c_399e8670469b,ENERGY FUELS INC,other
+edgar_c_ad52498b622d,Firefly Aerospace Inc.,other
+edgar_c_553298abe574,Blue Owl Technology Finance Corp.,other
+edgar_c_9a63ae92948c,"SentinelOne, Inc.",other
+edgar_c_0c98f25f5e56,"Compass, Inc.",other
+edgar_c_3bfed172a891,Colliers International Group Inc.,other
+edgar_c_3a0e900f776e,Elastic N.V.,other
+edgar_c_3e3650749096,CARMAX INC,other
+edgar_c_8d0fa89dd95e,"Floor & Decor Holdings, Inc.",other
+edgar_c_9c5a950b2c37,LandBridge Co LLC,other
+edgar_c_c4e83e987a1d,CRISPR Therapeutics AG,other
+edgar_c_167927979543,"Duolingo, Inc.",other
+edgar_c_49031e80b5ae,"Boot Barn Holdings, Inc.",other
+edgar_c_b1f0992ad2a6,Alliance Laundry Holdings Inc.,other
+edgar_c_f2d50483cf0f,"Remitly Global, Inc.",other
+edgar_c_5e127c740996,Legend Biotech Corp,other
+edgar_c_c0ac3d6a9189,"Victory Capital Holdings, Inc.",other
+edgar_c_3150d8185a67,EquipmentShare.com Inc,other
+edgar_c_38401840c342,"Dianthus Therapeutics, Inc. /DE/",other
+edgar_c_01d722ce959c,RADIAN GROUP INC,other
+edgar_c_cb68cc7b6378,Ondas Inc.,other
+edgar_c_04b63011b7c5,Garrett Motion Inc.,other
+edgar_c_f535aa136929,"Doximity, Inc.",other
+edgar_c_f3377bc5defe,PATTERSON UTI ENERGY INC,other
+edgar_c_d994342efe37,"CSW INDUSTRIALS, INC.",other
+edgar_c_2dd0f60cb313,"Navan, Inc.",other
+edgar_c_db697c8dda4e,"LAUREATE EDUCATION, INC.",other
+edgar_c_a2fcf9ca58ae,"MARA Holdings, Inc.",other
+edgar_c_159bcb2dbfef,"MIAMI INTERNATIONAL HOLDINGS, INC.",other
+edgar_c_b6e7978fdef7,Orla Mining Ltd.,other
+edgar_c_ebd689ce4503,"Kiniksa Pharmaceuticals International, plc",other
+edgar_c_18d32900ed92,"Shift4 Payments, Inc.",other
+edgar_c_b35ad372b245,"Crinetics Pharmaceuticals, Inc.",other
+edgar_c_5ae480e1ca92,"Veradermics, Inc",other
+edgar_c_4e2a8445df55,"Fastly, Inc.",other
+edgar_c_030759d4b3af,"ServisFirst Bancshares, Inc.",other
+edgar_c_7104742a7101,MDA Space Ltd.,other
+edgar_c_e18368f19988,"Lemonade, Inc.",other
+edgar_c_699a1c90be72,"International Seaways, Inc.",other
+edgar_c_6ce666d4438a,Gitlab Inc.,other
+edgar_c_00c276d2521c,GRIFFON CORP,other
+edgar_c_b409661f36af,"Helmerich & Payne, Inc.",other
+edgar_c_324e95e4adf6,"Champion Homes, Inc.",other
+edgar_c_0f8ada24010d,"SOUNDHOUND AI, INC.",other
+edgar_c_eec37c28fa54,"BETA Technologies, Inc.",other
+edgar_c_716d49fb608e,Waystar Holding Corp.,other
+edgar_c_6b9c3433c115,"Oruka Therapeutics, Inc.",other
+edgar_c_61f9991e505f,"INDEPENDENCE REALTY TRUST, INC.",other
+edgar_c_e039b58343eb,UNITED COMMUNITY BANKS INC,other
+edgar_c_f802d236d873,Montage Gold Corp.,other
+edgar_c_a143517505ef,"BILL Holdings, Inc.",other
+edgar_c_4f3e412ea581,"iRhythm Holdings, Inc.",other
+edgar_c_7242787660bc,"NLIGHT, INC.",other
+edgar_c_481618e5e12e,NGEx Minerals Ltd.,other
+edgar_c_14b7b3947d48,"Broadstone Net Lease, Inc.",other
+edgar_c_51ab1f8f9d02,Travel & Leisure Co.,other
+edgar_c_dc93b9e1fe9f,THOR INDUSTRIES INC,other
+edgar_c_5762818e9b6c,"Hinge Health, Inc.",other
+edgar_c_d28d3b758a76,"Vita Coco Company, Inc.",other
+edgar_c_075aed45d48d,ACADIA PHARMACEUTICALS INC,other
+edgar_c_bd7d5ae0d414,BANCFIRST CORP /OK/,other
+edgar_c_e1290be5c0fe,"Life360, Inc.",other
+edgar_c_62804c6256d4,"Viking Therapeutics, Inc.",other
+edgar_c_f59cfa287125,Howard Hughes Holdings Inc.,other
+edgar_c_d8255d0506c7,Navitas Semiconductor Corp,other
+edgar_c_9288ab72f050,"e.l.f. Beauty, Inc.",other
+edgar_c_56d75ca9493b,"GOLUB CAPITAL BDC, Inc.",other
+edgar_c_323d2e2d21ba,Skeena Resources Ltd,other
+edgar_c_53eab47866c3,Allied Gold Corp,other
+edgar_c_9b3b8210cdca,BKV Corp,other
+edgar_c_0826f88621a2,BOX INC,other
+edgar_c_e27dead8fe15,"Hagerty, Inc.",other
+edgar_c_711d3366c3bc,SCOTTS MIRACLE-GRO CO,other
+edgar_c_23fa968662d2,Liquidia Corp,other
+edgar_c_879b37c206fb,AMERICOLD REALTY TRUST,other
+edgar_c_e69e725dcd0f,DENISON MINES CORP.,other
+edgar_c_bf813faa0791,Neptune Insurance Holdings Inc.,other
+edgar_c_7ffa52bd9c82,"Edgewise Therapeutics, Inc.",other
+edgar_c_a2d4c9e275eb,"ACM Research, Inc.",other
+edgar_c_49870b39062e,"BREAD FINANCIAL HOLDINGS, INC.",other
+edgar_c_2a153183e256,SPROTT INC.,other
+edgar_c_5aba1fdab213,PERPETUA RESOURCES CORP.,other
+edgar_c_30643cc99723,"Option Care Health, Inc.",other
+edgar_c_458768bc64c0,HYCROFT MINING HOLDING CORP,other
+edgar_c_77644fa355cd,"CLEANSPARK, INC.",other
+edgar_c_406d838bfbc4,"Tango Therapeutics, Inc.",other
+edgar_c_659db6bb4c26,WESBANCO INC,other
+edgar_c_d39a7e326994,Cushman & Wakefield Ltd.,other
+edgar_c_dda887b29e81,PEABODY ENERGY CORP,other
+edgar_c_d9e6e5a1744f,VARONIS SYSTEMS INC,other
+edgar_c_ef8d1c0d2a9a,WORKIVA INC,other
+edgar_c_4c53ea6cec2b,ALUMIS INC.,other
+edgar_c_8b018f3094de,"Chefs' Warehouse, Inc.",other
+edgar_c_a55b26cbdaa7,"Erasca, Inc.",other
+edgar_c_8649eb9de0fe,FIRST FINANCIAL BANCORP /OH/,other
+edgar_c_5597383ffa47,CCC Intelligent Solutions Holdings Inc.,other
+edgar_c_e520f0607d91,PARK NATIONAL CORP /OH/,other
+edgar_c_ed1a7470fe62,Beam Therapeutics Inc.,other
+edgar_c_1bdad68bbc77,NICOLET BANKSHARES INC,other
+edgar_c_33eafff69360,Seadrill Ltd,other
+edgar_c_85c80a3eb026,"Upstart Holdings, Inc.",other
+edgar_c_95971a1cc49e,Structure Therapeutics Inc.,other
+edgar_c_741cf4bab099,eToro Group Ltd.,other
+edgar_c_eb677c814b98,"Privia Health Group, Inc.",other
+edgar_c_f7d8a8954093,"DigitalBridge Group, Inc.",other
+edgar_c_ffadf11d73f5,SEABRIDGE GOLD INC,other
+edgar_c_975c5138f3a2,"Black Stone Minerals, L.P.",other
+edgar_c_d8d5493f4adb,"DHT Holdings, Inc.",other
+edgar_c_5b7739020ac0,Sunrun Inc.,other
+edgar_c_c41f5994fed7,"Hamilton Insurance Group, Ltd.",other
+edgar_c_7af5b8d20f2c,Denali Therapeutics Inc.,other
+edgar_c_a7ec337c7aa4,"Arcutis Biotherapeutics, Inc.",other
+edgar_c_649cbd382767,NEKTAR THERAPEUTICS,other
+edgar_c_c08b5bc92a90,"Dyne Therapeutics, Inc.",other
+edgar_c_794080c1b0c4,Sezzle Inc.,other
+edgar_c_e9e6728b6585,TMC the metals Co Inc.,other
+edgar_c_bb29d76dd88d,Integer Holdings Corp,other
+edgar_c_162521caadcf,"BANC OF CALIFORNIA, INC.",other
+edgar_c_c3a68f02d070,"Amprius Technologies, Inc.",other
+edgar_c_f9de94cdd8e5,"NMI Holdings, Inc.",other
+edgar_c_1a5707fa4cd1,FORTUNA MINING CORP.,other
+edgar_c_f9c1c2606ad7,CECO ENVIRONMENTAL CORP,other
+edgar_c_61e3f9f9bd51,"10x Genomics, Inc.",other
+edgar_c_8599fd617dff,"Green Brick Partners, Inc.",other
+edgar_c_e7af79d0456f,"Xometry, Inc.",other
+edgar_c_b109426e1ad2,LIGAND PHARMACEUTICALS INC,other
+edgar_c_e91bec5e66ac,FB Financial Corp,other
+edgar_c_e186bf4c9fd7,"EURONET WORLDWIDE, INC.",other
+edgar_c_5000c0730c9e,"Braze, Inc.",other
+edgar_c_4dd98662c132,SOLENO THERAPEUTICS INC,other
+edgar_c_5eebc18ea863,Pattern Group Inc.,other
+edgar_c_d1ba95de6c00,TALOS ENERGY INC.,other
+edgar_c_b3c808612e5c,Warby Parker Inc.,other
+edgar_c_ce46b765283d,"Andersons, Inc.",other
+edgar_c_f8737eeeea8c,ENDEAVOUR SILVER CORP,other
+edgar_c_9144c7be6835,SILVERCORP METALS INC,other
+edgar_c_25fcdaf8e0b5,WAFD INC,other
+edgar_c_40fe284a3a3f,"VERACYTE, INC.",other
+edgar_c_613d8f99d359,"Infleqtion, Inc.",other
+edgar_c_259f7e401487,"StubHub Holdings, Inc.",other
+edgar_c_8ba53763800f,Aecon Group Inc.,other
+edgar_c_9667c6b17a77,Immunome Inc.,other
+edgar_c_a8e72a43f565,Kodiak Sciences Inc.,other
+edgar_c_9493400a3e1d,HAWAIIAN ELECTRIC INDUSTRIES INC,other
+edgar_c_991a1da173db,"Celldex Therapeutics, Inc.",other
+edgar_c_cda8761c27ca,"Curaleaf Holdings, Inc.",other
+edgar_c_4343a21ce9bb,GABELLI DIVIDEND & INCOME TRUST,other
+edgar_c_cf8e5ce71394,"Vera Therapeutics, Inc.",other
+edgar_c_f00cec9d80ec,Trump Media & Technology Group Corp.,other
+edgar_c_78b84e5db7fc,"IDEAYA Biosciences, Inc.",other
+edgar_c_2a8c015dd273,"Enliven Therapeutics, Inc.",other
+edgar_c_66edd2ee7d13,Sigma Lithium Corp,other
+edgar_c_ccc18bbc1ec8,Freshworks Inc.,other
+edgar_c_d8ff97f056ad,"Relay Therapeutics, Inc.",other
+edgar_c_dc954e0ac8fe,TASEKO MINES LTD,other
+edgar_c_e52d0c70f1a9,"Heartflow, Inc.",other
+edgar_c_9c446feba966,"Bancorp, Inc.",other
+edgar_c_e20ac88b20d0,NEXTNAV INC.,other
+edgar_c_5a659b43df26,"Mineralys Therapeutics, Inc.",other

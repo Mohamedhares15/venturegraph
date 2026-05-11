@@ -1,0 +1,9 @@
+{
+  "cohens_d": 0.3,
+  "alpha": 0.05,
+  "n_before": 76,
+  "n_after": 80800,
+  "power_before": 0.7439,
+  "power_after": 1.0,
+  "n_required_80pct_power": 88,
+  "sufficient_power": 

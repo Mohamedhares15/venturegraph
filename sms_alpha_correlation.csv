@@ -1,0 +1,6 @@
+horizon,alpha_col,pearson_r,p_value,n_obs,signal_dir
+k=12,alpha_k12,-0.0355,0.7655,73,✓ Works
+k=18,alpha_k18,0.0448,0.7923,37,✗ Counter
+k=24,alpha_k24,-0.0596,0.6091,76,✓ Works
+k=36,alpha_k36,0.0473,0.7036,67,✗ Counter
+k=6,alpha_k6,0.0227,0.8969,35,✗ Counter

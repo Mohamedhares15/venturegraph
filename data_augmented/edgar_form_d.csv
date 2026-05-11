@@ -1,0 +1,1052 @@
+company_name,funded_at,funding_round_type,amount_usd,sector,state,cik,investor_count,source,is_equity,n_related_persons
+MICROSOFT CORP,2020-07-24,series-a,,other,,789019,,sec_edgar_form_d,,0
+"Tesla, Inc.",2018-11-20,series-a,,other,,1318605,,sec_edgar_form_d,,0
+VISA INC.,2016-06-21,series-a,,other,,1403161,,sec_edgar_form_d,,0
+INTEL CORP,2025-03-25,series-a,,other,,50863,,sec_edgar_form_d,,0
+INTEL CORP,2021-02-23,series-a,,other,,50863,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2020-07-02,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2016-11-23,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2015-12-23,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2015-12-09,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2015-10-21,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2015-07-23,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2014-12-11,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2014-11-03,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2014-09-12,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2014-02-14,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2013-12-24,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2013-12-10,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2013-12-05,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2013-09-27,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2013-06-28,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2012-05-16,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2011-09-07,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2011-05-05,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2010-07-07,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2009-12-23,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2009-11-30,series-a,,other,,1321655,,sec_edgar_form_d,,0
+Palantir Technologies Inc.,2009-04-14,series-a,,other,,1321655,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2026-01-14,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2025-01-15,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2024-01-11,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2023-01-13,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2022-01-14,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2021-01-13,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2020-01-15,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2019-01-15,series-a,,other,,354950,,sec_edgar_form_d,,0
+"HOME DEPOT, INC.",2018-01-12,series-a,,other,,354950,,sec_edgar_form_d,,0
+TOYOTA MOTOR CORP/,2009-10-02,series-a,,other,,1094517,,sec_edgar_form_d,,0
+SHOPIFY INC.,2019-10-17,series-a,,other,,1594805,,sec_edgar_form_d,,0
+SHOPIFY INC.,2014-01-10,series-a,,other,,1594805,,sec_edgar_form_d,,0
+AppLovin Corp,2022-04-15,series-a,,other,,1751008,,sec_edgar_form_d,,0
+AppLovin Corp,2022-03-10,series-a,,other,,1751008,,sec_edgar_form_d,,0
+AppLovin Corp,2018-08-24,series-a,,other,,1751008,,sec_edgar_form_d,,0
+"Uber Technologies, Inc",2021-08-23,series-a,,other,,1543151,,sec_edgar_form_d,,0
+"Marvell Technology, Inc.",2026-02-25,series-a,,other,,1835632,,sec_edgar_form_d,,0
+"Marvell Technology, Inc.",2026-02-17,series-a,,other,,1835632,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2025-07-28,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2024-07-26,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2023-07-26,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2022-07-27,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2021-07-27,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2020-07-28,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2019-07-30,series-a,,other,,1022837,,sec_edgar_form_d,,0
+"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2018-08-06,series-a,,other,,1022837,,sec_edgar_form_d,,0
+ADVANTEST CORP,2025-08-28,series-a,,other,,1158838,,sec_edgar_form_d,,0
+ADVANTEST CORP,2024-09-03,series-a,,other,,1158838,,sec_edgar_form_d,,0
+ADVANTEST CORP,2023-06-06,series-a,,other,,1158838,,sec_edgar_form_d,,0
+ADVANTEST CORP,2022-06-09,series-a,,other,,1158838,,sec_edgar_form_d,,0
+Booking Holdings Inc.,2018-05-02,series-a,,other,,1075531,,sec_edgar_form_d,,0
+ENBRIDGE INC,2017-12-21,series-a,,other,,895728,,sec_edgar_form_d,,0
+EQUINIX INC,2020-03-13,series-a,,other,,1101239,,sec_edgar_form_d,,0
+SYNOPSYS INC,2025-12-08,series-a,,other,,883241,,sec_edgar_form_d,,0
+"ServiceNow, Inc.",2025-09-26,series-a,,other,,1373715,,sec_edgar_form_d,,0
+Spotify Technology S.A.,2016-04-08,series-a,,other,,1639920,,sec_edgar_form_d,,0
+Spotify Technology S.A.,2015-06-12,series-a,,other,,1639920,,sec_edgar_form_d,,0
+AGNICO EAGLE MINES LTD,2013-02-21,series-a,,other,,2809,,sec_edgar_form_d,,0
+AGNICO EAGLE MINES LTD,2012-03-19,series-a,,other,,2809,,sec_edgar_form_d,,0
+AGNICO EAGLE MINES LTD,2011-03-18,series-a,,other,,2809,,sec_edgar_form_d,,0
+AGNICO EAGLE MINES LTD,2010-12-07,series-a,,other,,2809,,sec_edgar_form_d,,0
+AGNICO EAGLE MINES LTD,2009-12-07,series-a,,other,,2809,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2026-04-02,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2025-09-18,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2025-04-04,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2024-09-20,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2024-04-01,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2023-09-14,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2023-05-11,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2023-04-06,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2022-09-19,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2022-04-07,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2021-09-17,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2021-04-07,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2020-09-17,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2020-04-16,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2019-09-16,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2019-04-02,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2018-09-19,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2018-04-03,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2017-09-19,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2017-04-04,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2016-09-16,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2016-04-04,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2015-09-21,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2015-04-15,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2014-04-07,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2013-09-10,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2013-04-04,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2012-11-02,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2012-04-13,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2011-06-23,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2011-06-10,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2010-10-13,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2010-04-26,series-a,,other,,895564,,sec_edgar_form_d,,0
+BAE SYSTEMS PLC /FI/,2009-06-02,series-a,,other,,895564,,sec_edgar_form_d,,0
+FREEPORT-MCMORAN INC,2016-07-15,series-a,,other,,831259,,sec_edgar_form_d,,0
+MOODYS CORP /DE/,2022-03-15,series-a,,other,,1059556,,sec_edgar_form_d,,0
+"Apollo Global Management, Inc.",2025-08-29,series-a,,other,,1858681,,sec_edgar_form_d,,0
+"Apollo Global Management, Inc.",2024-08-23,series-a,,other,,1858681,,sec_edgar_form_d,,0
+"Apollo Global Management, Inc.",2023-08-25,series-a,,other,,1858681,,sec_edgar_form_d,,0
+"Apollo Global Management, Inc.",2022-08-26,series-a,,other,,1858681,,sec_edgar_form_d,,0
+Energy Transfer LP,2016-03-23,series-a,,other,,1276187,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2021-08-10,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2021-06-21,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2021-06-02,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2021-02-11,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2020-06-19,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2019-08-01,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2018-10-10,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2018-03-02,series-a,,other,,1691493,,sec_edgar_form_d,,0
+Nu Holdings Ltd.,2016-12-09,series-a,,other,,1691493,,sec_edgar_form_d,,0
+"CoreWeave, Inc.",2024-05-30,series-a,,other,,1769628,,sec_edgar_form_d,,0
+"CoreWeave, Inc.",2021-05-07,series-a,,other,,1769628,,sec_edgar_form_d,,0
+"CoreWeave, Inc.",2021-03-03,series-a,,other,,1769628,,sec_edgar_form_d,,0
+"CoreWeave, Inc.",2020-02-14,series-a,,other,,1769628,,sec_edgar_form_d,,0
+"CoreWeave, Inc.",2019-10-03,series-a,,other,,1769628,,sec_edgar_form_d,,0
+"CoreWeave, Inc.",2019-03-11,series-a,,other,,1769628,,sec_edgar_form_d,,0
+Targa Resources Corp.,2016-03-29,series-a,,other,,1389170,,sec_edgar_form_d,,0
+"Autodesk, Inc.",2018-07-17,series-a,,other,,769397,,sec_edgar_form_d,,0
+Snowflake Inc.,2026-02-17,series-a,,other,,1640147,,sec_edgar_form_d,,0
+Snowflake Inc.,2022-04-20,series-a,,other,,1640147,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2026-04-08,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2025-04-08,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2024-04-11,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2023-04-11,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2022-04-11,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2021-04-09,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2020-04-10,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2019-04-10,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2018-04-10,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2017-04-11,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2017-04-10,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2016-04-08,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2015-04-07,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2014-04-15,series-a,,other,,850918,,sec_edgar_form_d,,0
+GREAT-WEST LIFECO INC.,2014-04-07,series-a,,other,,850918,,sec_edgar_form_d,,0
+"Block, Inc.",2021-05-05,series-a,,other,,1512673,,sec_edgar_form_d,,0
+TAKE TWO INTERACTIVE SOFTWARE INC,2020-09-18,series-a,,other,,946581,,sec_edgar_form_d,,0
+"JD.com, Inc.",2018-06-20,series-a,,other,,1549802,,sec_edgar_form_d,,0
+SUN LIFE FINANCIAL INC,2015-03-27,series-a,,other,,1097362,,sec_edgar_form_d,,0
+HEICO CORP,2026-04-20,series-a,,other,,46619,,sec_edgar_form_d,,0
+HEICO CORP,2025-02-07,series-a,,other,,46619,,sec_edgar_form_d,,0
+HEICO CORP,2022-08-25,series-a,,other,,46619,,sec_edgar_form_d,,0
+"Astera Labs, Inc.",2020-08-12,series-a,,other,,1736297,,sec_edgar_form_d,,0
+"Astera Labs, Inc.",2018-04-05,series-a,,other,,1736297,,sec_edgar_form_d,,0
+Roblox Corp,2022-04-15,series-a,,other,,1315098,,sec_edgar_form_d,,0
+Roblox Corp,2022-04-14,series-a,,other,,1315098,,sec_edgar_form_d,,0
+MASTEC INC,2025-10-08,series-a,,other,,15615,,sec_edgar_form_d,,0
+MASTEC INC,2024-11-12,series-a,,other,,15615,,sec_edgar_form_d,,0
+MASTEC INC,2022-01-12,series-a,,other,,15615,,sec_edgar_form_d,,0
+Credo Technology Group Holding Ltd,2021-05-14,series-a,,other,,1807794,,sec_edgar_form_d,,0
+Credo Technology Group Holding Ltd,2021-01-05,series-a,,other,,1807794,,sec_edgar_form_d,,0
+Credo Technology Group Holding Ltd,2020-04-06,series-a,,other,,1807794,,sec_edgar_form_d,,0
+"Reddit, Inc.",2021-08-26,series-a,,other,,1713445,,sec_edgar_form_d,,0
+"Reddit, Inc.",2021-02-23,series-a,,other,,1713445,,sec_edgar_form_d,,0
+"Reddit, Inc.",2019-02-11,series-a,,other,,1713445,,sec_edgar_form_d,,0
+"Reddit, Inc.",2017-07-31,series-a,,other,,1713445,,sec_edgar_form_d,,0
+COPART INC,2023-10-17,series-a,,other,,900075,,sec_edgar_form_d,,0
+DEVON ENERGY CORP/DE,2015-12-17,series-a,,other,,1090012,,sec_edgar_form_d,,0
+"AXON ENTERPRISE, INC.",2018-05-18,series-a,,other,,1069183,,sec_edgar_form_d,,0
+"Revolution Medicines, Inc.",2019-11-15,series-a,,other,,1628171,,sec_edgar_form_d,,0
+"Revolution Medicines, Inc.",2018-07-10,series-a,,other,,1628171,,sec_edgar_form_d,,0
+"Revolution Medicines, Inc.",2016-12-21,series-a,,other,,1628171,,sec_edgar_form_d,,0
+VICI PROPERTIES INC.,2018-01-05,series-a,,other,,1705696,,sec_edgar_form_d,,0
+VICI PROPERTIES INC.,2017-10-18,series-a,,other,,1705696,,sec_edgar_form_d,,0
+TWILIO INC,2021-07-28,series-a,,other,,1447669,,sec_edgar_form_d,,0
+TWILIO INC,2020-11-16,series-a,,other,,1447669,,sec_edgar_form_d,,0
+PEMBINA PIPELINE CORP,2015-12-04,series-a,,other,,1546066,,sec_edgar_form_d,,0
+PEMBINA PIPELINE CORP,2013-03-28,series-a,,other,,1546066,,sec_edgar_form_d,,0
+FIRSTENERGY CORP,2016-12-21,series-a,,other,,1031296,,sec_edgar_form_d,,0
+"AST SpaceMobile, Inc.",2022-05-20,series-a,,other,,1780312,,sec_edgar_form_d,,0
+TOWER SEMICONDUCTOR LTD,2014-04-09,series-a,,other,,928876,,sec_edgar_form_d,,0
+TOWER SEMICONDUCTOR LTD,2010-07-22,series-a,,other,,928876,,sec_edgar_form_d,,0
+BioNTech SE,2022-04-14,series-a,,other,,1776985,,sec_edgar_form_d,,0
+BioNTech SE,2020-09-17,series-a,,other,,1776985,,sec_edgar_form_d,,0
+"Everpure, Inc.",2014-08-11,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Everpure, Inc.",2014-05-02,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Everpure, Inc.",2013-09-10,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Everpure, Inc.",2012-10-09,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Everpure, Inc.",2012-01-31,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Everpure, Inc.",2011-08-09,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Everpure, Inc.",2011-07-14,series-a,,other,,1474432,,sec_edgar_form_d,,0
+"Zscaler, Inc.",2024-04-24,series-a,,other,,1713683,,sec_edgar_form_d,,0
+CHURCH & DWIGHT CO INC /DE/,2025-05-27,series-a,,other,,313927,,sec_edgar_form_d,,0
+Brookfield Renewable Partners L.P.,2014-06-20,series-a,,other,,1533232,,sec_edgar_form_d,,0
+"SoFi Technologies, Inc.",2022-03-15,series-a,,other,,1818874,,sec_edgar_form_d,,0
+GLOBAL PAYMENTS INC,2017-09-15,series-a,,other,,1123360,,sec_edgar_form_d,,0
+Madison Air Solutions Corp,2026-04-27,series-a,,other,,2098430,,sec_edgar_form_d,,0
+Fortive Corp,2020-03-03,series-a,,other,,1659166,,sec_edgar_form_d,,0
+"Coeur Mining, Inc.",2024-03-11,series-a,,other,,215466,,sec_edgar_form_d,,0
+"Coeur Mining, Inc.",2023-06-27,series-a,,other,,215466,,sec_edgar_form_d,,0
+WOLTERS KLUWER N V /FI,2026-03-20,series-a,,other,,861967,,sec_edgar_form_d,,0
+WOLTERS KLUWER N V /FI,2025-03-21,series-a,,other,,861967,,sec_edgar_form_d,,0
+WOLTERS KLUWER N V /FI,2024-04-12,series-a,,other,,861967,,sec_edgar_form_d,,0
+WOLTERS KLUWER N V /FI,2023-04-25,series-a,,other,,861967,,sec_edgar_form_d,,0
+Talen Energy Corp,2023-05-26,series-a,,other,,1622536,,sec_edgar_form_d,,0
+EAST WEST BANCORP INC,2023-07-07,series-a,,other,,1069157,,sec_edgar_form_d,,0
+ALAMOS GOLD INC,2016-08-04,series-a,,other,,1178819,,sec_edgar_form_d,,0
+ALAMOS GOLD INC,2013-01-25,series-a,,other,,1178819,,sec_edgar_form_d,,0
+"ZIMMER BIOMET HOLDINGS, INC.",2023-02-15,series-a,,other,,1136869,,sec_edgar_form_d,,0
+BLUE OWL CAPITAL INC.,2021-06-02,series-a,,other,,1823945,,sec_edgar_form_d,,0
+SOMNIGROUP INTERNATIONAL INC.,2025-02-14,series-a,,other,,1206264,,sec_edgar_form_d,,0
+Legence Corp.,2026-03-02,series-a,,other,,2052568,,sec_edgar_form_d,,0
+Legence Corp.,2026-01-02,series-a,,other,,2052568,,sec_edgar_form_d,,0
+SITIME Corp,2011-05-17,series-a,,other,,1451809,,sec_edgar_form_d,,0
+SITIME Corp,2009-09-03,series-a,,other,,1451809,,sec_edgar_form_d,,0
+ONTO INNOVATION INC.,2018-11-26,series-a,,other,,704532,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2025-10-14,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2024-10-11,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2023-10-13,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2022-10-12,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2021-10-18,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2020-11-16,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2019-11-05,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2018-10-12,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2017-10-12,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2016-12-08,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2015-10-09,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2014-10-15,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2013-01-15,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Warner Music Group Corp.,2011-10-11,series-a,,other,,1319161,,sec_edgar_form_d,,0
+Ascendis Pharma A/S,2014-12-09,series-a,,other,,1612042,,sec_edgar_form_d,,0
+"QXO, Inc.",2026-04-15,series-a,,other,,1236275,,sec_edgar_form_d,,0
+PERSHING SQUARE INC.,2024-06-13,series-a,,other,,2026053,,sec_edgar_form_d,,0
+Lytus Technologies Holdings PTV. Ltd.,2024-06-26,series-a,,other,,1816319,,sec_edgar_form_d,,0
+Planet Labs PBC,2021-09-28,series-a,,other,,1836833,,sec_edgar_form_d,,0
+Ally Financial Inc.,2020-03-02,series-a,,other,,40729,,sec_edgar_form_d,,0
+Summit Therapeutics Inc.,2024-09-26,series-a,,other,,1599298,,sec_edgar_form_d,,0
+Summit Therapeutics Inc.,2024-06-18,series-a,,other,,1599298,,sec_edgar_form_d,,0
+Summit Therapeutics Inc.,2020-11-23,series-a,,other,,1599298,,sec_edgar_form_d,,0
+Summit Therapeutics Inc.,2020-01-02,series-a,,other,,1599298,,sec_edgar_form_d,,0
+Summit Therapeutics Inc.,2019-01-18,series-a,,other,,1599298,,sec_edgar_form_d,,0
+Summit Therapeutics Inc.,2014-03-04,series-a,,other,,1599298,,sec_edgar_form_d,,0
+"BITMINE IMMERSION TECHNOLOGIES, INC.",2025-07-15,series-a,,other,,1829311,,sec_edgar_form_d,,0
+"BITMINE IMMERSION TECHNOLOGIES, INC.",2025-05-01,series-a,,other,,1829311,,sec_edgar_form_d,,0
+"BITMINE IMMERSION TECHNOLOGIES, INC.",2025-03-21,series-a,,other,,1829311,,sec_edgar_form_d,,0
+"BITMINE IMMERSION TECHNOLOGIES, INC.",2022-05-05,series-a,,other,,1829311,,sec_edgar_form_d,,0
+"BITMINE IMMERSION TECHNOLOGIES, INC.",2022-04-07,series-a,,other,,1829311,,sec_edgar_form_d,,0
+"BITMINE IMMERSION TECHNOLOGIES, INC.",2022-04-05,series-a,,other,,1829311,,sec_edgar_form_d,,0
+Penumbra Inc,2014-05-13,series-a,,other,,1321732,,sec_edgar_form_d,,0
+Penumbra Inc,2012-11-01,series-a,,other,,1321732,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2025-06-27,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2024-06-28,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2023-07-06,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2022-07-07,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2021-07-08,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2020-07-09,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2019-07-17,series-a,,other,,1481045,,sec_edgar_form_d,,0
+Daiwa Securities Group Inc.,2018-07-17,series-a,,other,,1481045,,sec_edgar_form_d,,0
+CNH Industrial N.V.,2023-12-26,series-a,,other,,1567094,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2025-12-15,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2025-01-08,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2024-01-05,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2023-03-07,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2023-02-07,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2022-07-01,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2021-08-04,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2021-03-22,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2020-07-29,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2020-03-06,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2020-01-24,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2019-01-24,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2018-11-16,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2017-11-16,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2016-11-18,series-a,,other,,764622,,sec_edgar_form_d,,0
+PINNACLE WEST CAPITAL CORP,2016-03-03,series-a,,other,,764622,,sec_edgar_form_d,,0
+"BJ's Wholesale Club Holdings, Inc.",2017-04-10,series-a,,other,,1531152,,sec_edgar_form_d,,0
+"BJ's Wholesale Club Holdings, Inc.",2016-04-05,series-a,,other,,1531152,,sec_edgar_form_d,,0
+"BJ's Wholesale Club Holdings, Inc.",2015-11-04,series-a,,other,,1531152,,sec_edgar_form_d,,0
+"BJ's Wholesale Club Holdings, Inc.",2011-10-11,series-a,,other,,1531152,,sec_edgar_form_d,,0
+RAMBUS INC,2011-06-07,series-a,,other,,917273,,sec_edgar_form_d,,0
+"MADRIGAL PHARMACEUTICALS, INC.",2017-07-05,series-a,,other,,1157601,,sec_edgar_form_d,,0
+HECLA MINING CO/DE/,2020-07-21,series-a,,other,,719413,,sec_edgar_form_d,,0
+HECLA MINING CO/DE/,2018-03-13,series-a,,other,,719413,,sec_edgar_form_d,,0
+DraftKings Inc.,2025-11-05,series-a,,other,,1883685,,sec_edgar_form_d,,0
+DraftKings Inc.,2024-12-13,series-a,,other,,1883685,,sec_edgar_form_d,,0
+DraftKings Inc.,2024-06-06,series-a,,other,,1883685,,sec_edgar_form_d,,0
+"Nutanix, Inc.",2016-09-19,series-a,,other,,1618732,,sec_edgar_form_d,,0
+"Nutanix, Inc.",2016-09-06,series-a,,other,,1618732,,sec_edgar_form_d,,0
+"Nutanix, Inc.",2014-09-09,series-a,,other,,1618732,,sec_edgar_form_d,,0
+"Axsome Therapeutics, Inc.",2015-05-19,series-a,,other,,1579428,,sec_edgar_form_d,,0
+"Axsome Therapeutics, Inc.",2015-01-07,series-a,,other,,1579428,,sec_edgar_form_d,,0
+"Axsome Therapeutics, Inc.",2014-09-23,series-a,,other,,1579428,,sec_edgar_form_d,,0
+"Axsome Therapeutics, Inc.",2013-10-30,series-a,,other,,1579428,,sec_edgar_form_d,,0
+"Axsome Therapeutics, Inc.",2013-07-03,series-a,,other,,1579428,,sec_edgar_form_d,,0
+"Axsome Therapeutics, Inc.",2013-06-19,series-a,,other,,1579428,,sec_edgar_form_d,,0
+"ASSURANT, INC.",2018-06-15,series-a,,other,,1267238,,sec_edgar_form_d,,0
+VICOR CORP,2018-06-14,series-a,,other,,751978,,sec_edgar_form_d,,0
+"DigitalOcean Holdings, Inc.",2021-09-13,series-a,,other,,1582961,,sec_edgar_form_d,,0
+"DigitalOcean Holdings, Inc.",2020-05-21,series-a,,other,,1582961,,sec_edgar_form_d,,0
+"DigitalOcean Holdings, Inc.",2015-07-14,series-a,,other,,1582961,,sec_edgar_form_d,,0
+"DigitalOcean Holdings, Inc.",2014-03-10,series-a,,other,,1582961,,sec_edgar_form_d,,0
+"DigitalOcean Holdings, Inc.",2013-08-09,series-a,,other,,1582961,,sec_edgar_form_d,,0
+"DigitalOcean Holdings, Inc.",2013-07-31,series-a,,other,,1582961,,sec_edgar_form_d,,0
+Equinox Gold Corp.,2018-10-25,series-a,,other,,1756607,,sec_edgar_form_d,,0
+AECOM,2017-08-11,series-a,,other,,868857,,sec_edgar_form_d,,0
+Gildan Activewear Inc.,2011-04-21,series-a,,other,,1061894,,sec_edgar_form_d,,0
+"ARROWHEAD PHARMACEUTICALS, INC.",2013-10-22,series-a,,other,,879407,,sec_edgar_form_d,,0
+"ARROWHEAD PHARMACEUTICALS, INC.",2013-05-16,series-a,,other,,879407,,sec_edgar_form_d,,0
+"ARROWHEAD PHARMACEUTICALS, INC.",2010-09-30,series-a,,other,,879407,,sec_edgar_form_d,,0
+"ARROWHEAD PHARMACEUTICALS, INC.",2010-01-29,series-a,,other,,879407,,sec_edgar_form_d,,0
+"ZILLOW GROUP, INC.",2023-08-11,series-a,,other,,1617640,,sec_edgar_form_d,,0
+"Figma, Inc.",2024-05-29,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"Figma, Inc.",2021-07-01,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"Figma, Inc.",2021-02-24,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"Figma, Inc.",2020-05-12,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"Figma, Inc.",2019-02-22,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"Figma, Inc.",2015-12-03,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"Figma, Inc.",2013-06-25,series-a,,other,,1579878,,sec_edgar_form_d,,0
+"HOULIHAN LOKEY, INC.",2015-08-17,series-a,,other,,1302215,,sec_edgar_form_d,,0
+"Globalstar, Inc.",2013-01-11,series-a,,other,,1366868,,sec_edgar_form_d,,0
+FORMFACTOR INC,2025-01-17,series-a,,other,,1039399,,sec_edgar_form_d,,0
+"CAVA GROUP, INC.",2019-12-10,series-a,,other,,1639438,,sec_edgar_form_d,,0
+"CAVA GROUP, INC.",2018-12-06,series-a,,other,,1639438,,sec_edgar_form_d,,0
+"CAVA GROUP, INC.",2018-05-11,series-a,,other,,1639438,,sec_edgar_form_d,,0
+"CAVA GROUP, INC.",2017-03-29,series-a,,other,,1639438,,sec_edgar_form_d,,0
+"CAVA GROUP, INC.",2015-09-24,series-a,,other,,1639438,,sec_edgar_form_d,,0
+"CAVA GROUP, INC.",2015-04-16,series-a,,other,,1639438,,sec_edgar_form_d,,0
+"BrightSpring Health Services, Inc.",2024-09-16,series-a,,other,,1865782,,sec_edgar_form_d,,0
+J M SMUCKER Co,2015-03-27,series-a,,other,,91419,,sec_edgar_form_d,,0
+"Texas Roadhouse, Inc.",2014-12-04,series-a,,other,,1289460,,sec_edgar_form_d,,0
+Maplebear Inc.,2021-11-01,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2021-03-11,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2020-10-20,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2020-06-26,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2018-04-13,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2018-02-22,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2017-03-15,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2015-07-10,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2014-12-30,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2014-06-25,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2013-07-11,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Maplebear Inc.,2013-06-12,series-a,,other,,1579091,,sec_edgar_form_d,,0
+Applied Digital Corp.,2024-09-20,series-a,,other,,1144879,,sec_edgar_form_d,,0
+Applied Digital Corp.,2021-08-06,series-a,,other,,1144879,,sec_edgar_form_d,,0
+Applied Digital Corp.,2021-04-26,series-a,,other,,1144879,,sec_edgar_form_d,,0
+Applied Digital Corp.,2011-09-15,series-a,,other,,1144879,,sec_edgar_form_d,,0
+Applied Digital Corp.,2011-01-18,series-a,,other,,1144879,,sec_edgar_form_d,,0
+Applied Digital Corp.,2009-10-07,series-a,,other,,1144879,,sec_edgar_form_d,,0
+Applied Digital Corp.,2009-01-27,series-a,,other,,1144879,,sec_edgar_form_d,,0
+"Tempus AI, Inc.",2022-10-17,series-a,,other,,1717115,,sec_edgar_form_d,,0
+"Tempus AI, Inc.",2018-09-07,series-a,,other,,1717115,,sec_edgar_form_d,,0
+"Tempus AI, Inc.",2018-03-30,series-a,,other,,1717115,,sec_edgar_form_d,,0
+"Tempus AI, Inc.",2017-09-25,series-a,,other,,1717115,,sec_edgar_form_d,,0
+CHART INDUSTRIES INC,2021-12-14,series-a,,other,,892553,,sec_edgar_form_d,,0
+"REVVITY, INC.",2021-09-23,series-a,,other,,31791,,sec_edgar_form_d,,0
+FIRST MAJESTIC SILVER CORP,2009-09-25,series-a,,other,,1308648,,sec_edgar_form_d,,0
+FIRST MAJESTIC SILVER CORP,2009-09-08,series-a,,other,,1308648,,sec_edgar_form_d,,0
+FIRST MAJESTIC SILVER CORP,2009-03-20,series-a,,other,,1308648,,sec_edgar_form_d,,0
+"DOCUSIGN, INC.",2020-07-20,series-a,,other,,1261333,,sec_edgar_form_d,,0
+"Praxis Precision Medicines, Inc.",2019-06-27,series-a,,other,,1689548,,sec_edgar_form_d,,0
+"Praxis Precision Medicines, Inc.",2018-03-26,series-a,,other,,1689548,,sec_edgar_form_d,,0
+"Praxis Precision Medicines, Inc.",2016-11-10,series-a,,other,,1689548,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2021-11-15,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2018-12-20,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2016-12-20,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2016-11-17,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2016-02-17,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2015-12-30,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2015-04-15,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2014-11-13,series-a,,other,,1611052,,sec_edgar_form_d,,0
+"PROCORE TECHNOLOGIES, INC.",2014-06-19,series-a,,other,,1611052,,sec_edgar_form_d,,0
+AeroVironment Inc,2026-03-24,series-a,,other,,1368622,,sec_edgar_form_d,,0
+AeroVironment Inc,2023-09-19,series-a,,other,,1368622,,sec_edgar_form_d,,0
+AeroVironment Inc,2021-02-26,series-a,,other,,1368622,,sec_edgar_form_d,,0
+"Lineage, Inc.",2021-07-08,series-a,,other,,1868159,,sec_edgar_form_d,,0
+"Joby Aviation, Inc.",2024-10-15,series-a,,other,,1819848,,sec_edgar_form_d,,0
+VIASAT INC,2020-08-03,series-a,,other,,797721,,sec_edgar_form_d,,0
+"Celsius Holdings, Inc.",2022-08-02,series-a,,other,,1341766,,sec_edgar_form_d,,0
+"Celsius Holdings, Inc.",2017-03-14,series-a,,other,,1341766,,sec_edgar_form_d,,0
+"Celsius Holdings, Inc.",2017-01-13,series-a,,other,,1341766,,sec_edgar_form_d,,0
+"Celsius Holdings, Inc.",2015-04-30,series-a,,other,,1341766,,sec_edgar_form_d,,0
+Freedom Holding Corp.,2011-03-22,series-a,,other,,924805,,sec_edgar_form_d,,0
+CAMTEK LTD,2019-06-20,series-a,,other,,1109138,,sec_edgar_form_d,,0
+"Chime Financial, Inc.",2021-09-10,series-a,,other,,1795586,,sec_edgar_form_d,,0
+"Chime Financial, Inc.",2021-08-23,series-a,,other,,1795586,,sec_edgar_form_d,,0
+"Chime Financial, Inc.",2020-10-15,series-a,,other,,1795586,,sec_edgar_form_d,,0
+"Chime Financial, Inc.",2020-09-28,series-a,,other,,1795586,,sec_edgar_form_d,,0
+"Chime Financial, Inc.",2020-03-05,series-a,,other,,1795586,,sec_edgar_form_d,,0
+"Chime Financial, Inc.",2019-12-06,series-a,,other,,1795586,,sec_edgar_form_d,,0
+"Krystal Biotech, Inc.",2017-08-18,series-a,,other,,1711279,,sec_edgar_form_d,,0
+"Vaxcyte, Inc.",2020-04-03,series-a,,other,,1649094,,sec_edgar_form_d,,0
+"Vaxcyte, Inc.",2018-06-12,series-a,,other,,1649094,,sec_edgar_form_d,,0
+"Vaxcyte, Inc.",2017-03-21,series-a,,other,,1649094,,sec_edgar_form_d,,0
+"Vaxcyte, Inc.",2015-07-24,series-a,,other,,1649094,,sec_edgar_form_d,,0
+"Nuvalent, Inc.",2021-05-12,series-a,,other,,1861560,,sec_edgar_form_d,,0
+JANUS HENDERSON GROUP PLC,2024-10-08,series-a,,other,,1274173,,sec_edgar_form_d,,0
+NATIONAL FUEL GAS CO,2025-12-23,series-a,,other,,70145,,sec_edgar_form_d,,0
+Norwegian Cruise Line Holdings Ltd.,2014-11-21,series-a,,other,,1513761,,sec_edgar_form_d,,0
+"RYAN SPECIALTY HOLDINGS, INC.",2023-12-22,series-a,,other,,1849253,,sec_edgar_form_d,,0
+"RYAN SPECIALTY HOLDINGS, INC.",2023-05-30,series-a,,other,,1849253,,sec_edgar_form_d,,0
+D-Wave Quantum Inc.,2026-01-30,series-a,,other,,1907982,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2023-09-22,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2022-07-22,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2015-08-05,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2015-07-17,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2015-06-24,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2015-01-05,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2014-12-29,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2014-04-17,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"ImmunityBio, Inc.",2009-10-09,series-a,,other,,1326110,,sec_edgar_form_d,,0
+"AAON, INC.",2024-04-02,series-a,,other,,824142,,sec_edgar_form_d,,0
+"AAON, INC.",2023-03-10,series-a,,other,,824142,,sec_edgar_form_d,,0
+"AAON, INC.",2022-03-15,series-a,,other,,824142,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2024-09-23,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2024-03-01,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2020-12-11,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2019-12-24,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2019-12-11,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2018-12-13,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2018-06-18,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2018-05-09,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2018-03-19,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2018-02-26,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2017-09-15,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2017-06-13,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2017-06-01,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2017-03-15,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2016-09-28,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2016-04-08,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2016-02-24,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2016-02-18,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-12-23,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-11-19,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-10-21,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-07-15,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-05-29,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-04-15,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2015-03-13,series-a,,other,,1334933,,sec_edgar_form_d,,0
+URANIUM ENERGY CORP,2014-12-22,series-a,,other,,1334933,,sec_edgar_form_d,,0
+"Clearwater Analytics Holdings, Inc.",2025-05-12,series-a,,other,,1866368,,sec_edgar_form_d,,0
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",2026-01-15,series-a,,other,,1035443,,sec_edgar_form_d,,0
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",2025-01-15,series-a,,other,,1035443,,sec_edgar_form_d,,0
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",2024-01-16,series-a,,other,,1035443,,sec_edgar_form_d,,0
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",2023-01-17,series-a,,other,,1035443,,sec_edgar_form_d,,0
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",2022-01-18,series-a,,other,,1035443,,sec_edgar_form_d,,0
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",2021-01-15,series-a,,other,,1035443,,sec_edgar_form_d,,0
+"Riot Platforms, Inc.",2019-02-12,series-a,,other,,1167419,,sec_edgar_form_d,,0
+"Riot Platforms, Inc.",2017-12-27,series-a,,other,,1167419,,sec_edgar_form_d,,0
+"Riot Platforms, Inc.",2017-03-22,series-a,,other,,1167419,,sec_edgar_form_d,,0
+"Riot Platforms, Inc.",2016-09-15,series-a,,other,,1167419,,sec_edgar_form_d,,0
+"Construction Partners, Inc.",2024-11-04,series-a,,other,,1718227,,sec_edgar_form_d,,0
+Celcuity Inc.,2025-09-23,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2024-10-15,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2024-06-28,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2024-04-25,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2023-11-27,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2023-10-26,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2023-05-02,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2022-11-28,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2022-05-26,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2022-04-08,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2021-11-22,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2021-04-14,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2020-11-02,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2019-10-31,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2018-11-07,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2017-11-07,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2017-05-19,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2017-05-02,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2016-02-26,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2015-12-18,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Celcuity Inc.,2014-03-24,series-a,,other,,1603454,,sec_edgar_form_d,,0
+Terreno Realty Corp,2010-02-26,series-a,,other,,1476150,,sec_edgar_form_d,,0
+Aura Minerals Inc.,2014-12-15,series-a,,other,,1468642,,sec_edgar_form_d,,0
+Aura Minerals Inc.,2014-03-31,series-a,,other,,1468642,,sec_edgar_form_d,,0
+Aura Minerals Inc.,2010-02-10,series-a,,other,,1468642,,sec_edgar_form_d,,0
+Aura Minerals Inc.,2009-07-23,series-a,,other,,1468642,,sec_edgar_form_d,,0
+"Klaviyo, Inc.",2022-08-02,series-a,,other,,1835830,,sec_edgar_form_d,,0
+"Klaviyo, Inc.",2021-05-18,series-a,,other,,1835830,,sec_edgar_form_d,,0
+"Klaviyo, Inc.",2020-12-15,series-a,,other,,1835830,,sec_edgar_form_d,,0
+OceanaGold Corp,2010-03-17,series-a,,other,,1487326,,sec_edgar_form_d,,0
+REPLIGEN CORP,2019-06-13,series-a,,other,,730272,,sec_edgar_form_d,,0
+REPLIGEN CORP,2017-08-08,series-a,,other,,730272,,sec_edgar_form_d,,0
+REPLIGEN CORP,2014-06-16,series-a,,other,,730272,,sec_edgar_form_d,,0
+"Core Scientific, Inc./tx",2022-09-09,series-a,,other,,1839341,,sec_edgar_form_d,,0
+"Mirum Pharmaceuticals, Inc.",2026-01-29,series-a,,other,,1759425,,sec_edgar_form_d,,0
+"Mirum Pharmaceuticals, Inc.",2020-12-30,series-a,,other,,1759425,,sec_edgar_form_d,,0
+"Mirum Pharmaceuticals, Inc.",2018-11-20,series-a,,other,,1759425,,sec_edgar_form_d,,0
+LITHIA MOTORS INC,2017-05-24,series-a,,other,,1023128,,sec_edgar_form_d,,0
+"Protagonist Therapeutics, Inc",2015-07-24,series-a,,other,,1377121,,sec_edgar_form_d,,0
+"Protagonist Therapeutics, Inc",2013-06-11,series-a,,other,,1377121,,sec_edgar_form_d,,0
+"Cogent Biosciences, Inc.",2020-07-21,series-a,,other,,1622229,,sec_edgar_form_d,,0
+"Cogent Biosciences, Inc.",2015-06-25,series-a,,other,,1622229,,sec_edgar_form_d,,0
+"Cogent Biosciences, Inc.",2014-10-20,series-a,,other,,1622229,,sec_edgar_form_d,,0
+"GLACIER BANCORP, INC.",2015-03-12,series-a,,other,,868671,,sec_edgar_form_d,,0
+PJT Partners Inc.,2018-10-15,series-a,,other,,1626115,,sec_edgar_form_d,,0
+APPFOLIO INC,2009-08-24,series-a,,other,,1433195,,sec_edgar_form_d,,0
+California Resources Corp,2018-02-16,series-a,,other,,1609253,,sec_edgar_form_d,,0
+"Terns Pharmaceuticals, Inc.",2021-01-07,series-a,,other,,1831363,,sec_edgar_form_d,,0
+National Storage Affiliates Trust,2023-03-29,series-a,,other,,1618563,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2024-05-03,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2021-07-13,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2021-04-14,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2020-05-08,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2018-11-14,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2018-03-23,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2017-03-16,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"ServiceTitan, Inc.",2015-06-16,series-a,,other,,1638826,,sec_edgar_form_d,,0
+"Kodiak Gas Services, Inc.",2019-02-07,series-a,,other,,1767042,,sec_edgar_form_d,,0
+"Spyre Therapeutics, Inc.",2023-12-27,series-a,,other,,1636282,,sec_edgar_form_d,,0
+"Spyre Therapeutics, Inc.",2023-07-06,series-a,,other,,1636282,,sec_edgar_form_d,,0
+"Spyre Therapeutics, Inc.",2015-03-24,series-a,,other,,1636282,,sec_edgar_form_d,,0
+OPEN TEXT CORP,2014-01-16,series-a,,other,,1002638,,sec_edgar_form_d,,0
+OPEN TEXT CORP,2013-11-18,series-a,,other,,1002638,,sec_edgar_form_d,,0
+"Rigetti Computing, Inc.",2022-08-22,series-a,,other,,1838359,,sec_edgar_form_d,,0
+"Rigetti Computing, Inc.",2022-01-04,series-a,,other,,1838359,,sec_edgar_form_d,,0
+"RHYTHM PHARMACEUTICALS, INC.",2017-01-20,series-a,,other,,1649904,,sec_edgar_form_d,,0
+"RHYTHM PHARMACEUTICALS, INC.",2015-12-10,series-a,,other,,1649904,,sec_edgar_form_d,,0
+"RHYTHM PHARMACEUTICALS, INC.",2015-08-12,series-a,,other,,1649904,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2018-03-23,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2018-02-08,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2018-02-07,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2017-09-08,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2017-05-19,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2017-02-07,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2016-12-15,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2016-08-12,series-a,,other,,1655888,,sec_edgar_form_d,,0
+Blue Owl Capital Corp,2016-03-18,series-a,,other,,1655888,,sec_edgar_form_d,,0
+"EPAM Systems, Inc.",2019-09-11,series-a,,other,,1352010,,sec_edgar_form_d,,0
+Blackstone Secured Lending Fund,2019-12-16,series-a,,other,,1736035,,sec_edgar_form_d,,0
+Blackstone Secured Lending Fund,2018-10-26,series-a,,other,,1736035,,sec_edgar_form_d,,0
+Ameris Bancorp,2018-02-06,series-a,,other,,351569,,sec_edgar_form_d,,0
+Ameris Bancorp,2018-01-12,series-a,,other,,351569,,sec_edgar_form_d,,0
+Ameris Bancorp,2017-02-01,series-a,,other,,351569,,sec_edgar_form_d,,0
+Ameris Bancorp,2017-01-31,series-a,,other,,351569,,sec_edgar_form_d,,0
+Ameris Bancorp,2015-02-04,series-a,,other,,351569,,sec_edgar_form_d,,0
+B2GOLD CORP,2009-08-10,series-a,,other,,1429937,,sec_edgar_form_d,,0
+"TG THERAPEUTICS, INC.",2012-03-26,series-a,,other,,1001316,,sec_edgar_form_d,,0
+"TG THERAPEUTICS, INC.",2012-02-29,series-a,,other,,1001316,,sec_edgar_form_d,,0
+"TG THERAPEUTICS, INC.",2012-02-22,series-a,,other,,1001316,,sec_edgar_form_d,,0
+"TG THERAPEUTICS, INC.",2010-03-16,series-a,,other,,1001316,,sec_edgar_form_d,,0
+"UiPath, Inc.",2021-02-11,series-a,,other,,1734722,,sec_edgar_form_d,,0
+"UiPath, Inc.",2020-07-20,series-a,,other,,1734722,,sec_edgar_form_d,,0
+"UiPath, Inc.",2019-05-13,series-a,,other,,1734722,,sec_edgar_form_d,,0
+"UiPath, Inc.",2018-11-16,series-a,,other,,1734722,,sec_edgar_form_d,,0
+"UiPath, Inc.",2018-03-16,series-a,,other,,1734722,,sec_edgar_form_d,,0
+"Immunovant, Inc.",2025-01-21,series-a,,other,,1764013,,sec_edgar_form_d,,0
+ADT Inc.,2022-06-16,series-a,,other,,1703056,,sec_edgar_form_d,,0
+ADT Inc.,2021-12-21,series-a,,other,,1703056,,sec_edgar_form_d,,0
+ADT Inc.,2020-12-09,series-a,,other,,1703056,,sec_edgar_form_d,,0
+Klarna Group plc,2024-12-13,series-a,,other,,2003292,,sec_edgar_form_d,,0
+Klarna Group plc,2024-05-13,series-a,,other,,2003292,,sec_edgar_form_d,,0
+Klarna Group plc,2023-12-26,series-a,,other,,2003292,,sec_edgar_form_d,,0
+"Oscar Health, Inc.",2015-04-28,series-a,,other,,1568651,,sec_edgar_form_d,,0
+"Oscar Health, Inc.",2014-05-19,series-a,,other,,1568651,,sec_edgar_form_d,,0
+"Oscar Health, Inc.",2014-01-07,series-a,,other,,1568651,,sec_edgar_form_d,,0
+"Oscar Health, Inc.",2013-09-11,series-a,,other,,1568651,,sec_edgar_form_d,,0
+Scholar Rock Holding Corp,2018-01-08,series-a,,other,,1727196,,sec_edgar_form_d,,0
+PIPER SANDLER COMPANIES,2019-10-15,series-a,,other,,1230245,,sec_edgar_form_d,,0
+BRUKER CORP,2017-01-06,series-a,,other,,1109354,,sec_edgar_form_d,,0
+Almonty Industries Inc.,2016-03-24,series-a,,other,,1670061,,sec_edgar_form_d,,0
+Acushnet Holdings Corp.,2016-06-29,series-a,,other,,1672013,,sec_edgar_form_d,,0
+"Avantor, Inc.",2017-12-28,series-a,,other,,1722482,,sec_edgar_form_d,,0
+OUTFRONT Media Inc.,2014-12-03,series-a,,other,,1579877,,sec_edgar_form_d,,0
+"PTC THERAPEUTICS, INC.",2023-05-08,series-a,,other,,1070081,,sec_edgar_form_d,,0
+"PTC THERAPEUTICS, INC.",2020-06-12,series-a,,other,,1070081,,sec_edgar_form_d,,0
+"PTC THERAPEUTICS, INC.",2020-05-14,series-a,,other,,1070081,,sec_edgar_form_d,,0
+"PTC THERAPEUTICS, INC.",2018-09-05,series-a,,other,,1070081,,sec_edgar_form_d,,0
+ENERGY FUELS INC,2013-10-30,series-a,,other,,1385849,,sec_edgar_form_d,,0
+ENERGY FUELS INC,2013-08-19,series-a,,other,,1385849,,sec_edgar_form_d,,0
+ENERGY FUELS INC,2013-06-26,series-a,,other,,1385849,,sec_edgar_form_d,,0
+ENERGY FUELS INC,2012-07-03,series-a,,other,,1385849,,sec_edgar_form_d,,0
+Firefly Aerospace Inc.,2024-11-15,series-a,,other,,1860160,,sec_edgar_form_d,,0
+Firefly Aerospace Inc.,2024-03-01,series-a,,other,,1860160,,sec_edgar_form_d,,0
+Firefly Aerospace Inc.,2023-02-16,series-a,,other,,1860160,,sec_edgar_form_d,,0
+Firefly Aerospace Inc.,2022-03-29,series-a,,other,,1860160,,sec_edgar_form_d,,0
+Firefly Aerospace Inc.,2021-05-11,series-a,,other,,1860160,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2021-08-10,series-a,,other,,1747777,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2021-06-04,series-a,,other,,1747777,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2020-08-10,series-a,,other,,1747777,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2020-01-28,series-a,,other,,1747777,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2018-11-26,series-a,,other,,1747777,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2018-10-25,series-a,,other,,1747777,,sec_edgar_form_d,,0
+Blue Owl Technology Finance Corp.,2018-08-10,series-a,,other,,1747777,,sec_edgar_form_d,,0
+"SentinelOne, Inc.",2021-02-24,series-a,,other,,1583708,,sec_edgar_form_d,,0
+"SentinelOne, Inc.",2020-02-21,series-a,,other,,1583708,,sec_edgar_form_d,,0
+"SentinelOne, Inc.",2017-01-25,series-a,,other,,1583708,,sec_edgar_form_d,,0
+"SentinelOne, Inc.",2015-10-14,series-a,,other,,1583708,,sec_edgar_form_d,,0
+"SentinelOne, Inc.",2013-08-06,series-a,,other,,1583708,,sec_edgar_form_d,,0
+"Compass, Inc.",2026-01-30,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-11-13,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-10-15,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-09-24,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-09-09,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-08-08,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-07-31,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2025-06-26,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2024-05-22,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2024-04-18,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2024-02-12,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2024-01-23,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-10-26,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-10-17,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-10-13,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-08-31,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-08-30,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-03-29,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2023-03-10,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2013-10-10,series-a,,other,,1563190,,sec_edgar_form_d,,0
+"Compass, Inc.",2012-12-05,series-a,,other,,1563190,,sec_edgar_form_d,,0
+Colliers International Group Inc.,2010-01-27,series-a,,other,,913353,,sec_edgar_form_d,,0
+Elastic N.V.,2017-11-13,series-a,,other,,1707753,,sec_edgar_form_d,,0
+Elastic N.V.,2017-06-05,series-a,,other,,1707753,,sec_edgar_form_d,,0
+CARMAX INC,2021-06-08,series-a,,other,,1170010,,sec_edgar_form_d,,0
+"Floor & Decor Holdings, Inc.",2010-12-07,series-a,,other,,1507079,,sec_edgar_form_d,,0
+LandBridge Co LLC,2024-07-12,series-a,,other,,1995807,,sec_edgar_form_d,,0
+CRISPR Therapeutics AG,2020-04-10,series-a,,other,,1674416,,sec_edgar_form_d,,0
+CRISPR Therapeutics AG,2020-04-09,series-a,,other,,1674416,,sec_edgar_form_d,,0
+CRISPR Therapeutics AG,2016-11-04,series-a,,other,,1674416,,sec_edgar_form_d,,0
+"Duolingo, Inc.",2020-11-19,series-a,,other,,1562088,,sec_edgar_form_d,,0
+"Duolingo, Inc.",2020-04-14,series-a,,other,,1562088,,sec_edgar_form_d,,0
+"Duolingo, Inc.",2020-01-07,series-a,,other,,1562088,,sec_edgar_form_d,,0
+"Duolingo, Inc.",2017-09-12,series-a,,other,,1562088,,sec_edgar_form_d,,0
+"Duolingo, Inc.",2012-11-13,series-a,,other,,1562088,,sec_edgar_form_d,,0
+"Boot Barn Holdings, Inc.",2014-06-24,series-a,,other,,1610250,,sec_edgar_form_d,,0
+Alliance Laundry Holdings Inc.,2015-09-15,series-a,,other,,1317685,,sec_edgar_form_d,,0
+"Remitly Global, Inc.",2024-04-29,series-a,,other,,1782170,,sec_edgar_form_d,,0
+"Remitly Global, Inc.",2023-01-20,series-a,,other,,1782170,,sec_edgar_form_d,,0
+"Remitly Global, Inc.",2021-05-25,series-a,,other,,1782170,,sec_edgar_form_d,,0
+"Remitly Global, Inc.",2020-08-17,series-a,,other,,1782170,,sec_edgar_form_d,,0
+"Remitly Global, Inc.",2019-07-12,series-a,,other,,1782170,,sec_edgar_form_d,,0
+Legend Biotech Corp,2023-04-28,series-a,,other,,1801198,,sec_edgar_form_d,,0
+Legend Biotech Corp,2020-04-07,series-a,,other,,1801198,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2017-03-10,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2016-08-12,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2016-03-02,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2015-05-13,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2015-03-02,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2014-11-17,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2013-08-01,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2013-07-19,series-a,,other,,1570827,,sec_edgar_form_d,,0
+"Victory Capital Holdings, Inc.",2013-03-06,series-a,,other,,1570827,,sec_edgar_form_d,,0
+EquipmentShare.com Inc,2022-01-06,series-a,,other,,1693736,,sec_edgar_form_d,,0
+EquipmentShare.com Inc,2021-04-14,series-a,,other,,1693736,,sec_edgar_form_d,,0
+EquipmentShare.com Inc,2021-01-15,series-a,,other,,1693736,,sec_edgar_form_d,,0
+EquipmentShare.com Inc,2018-10-05,series-a,,other,,1693736,,sec_edgar_form_d,,0
+EquipmentShare.com Inc,2018-08-21,series-a,,other,,1693736,,sec_edgar_form_d,,0
+EquipmentShare.com Inc,2017-01-05,series-a,,other,,1693736,,sec_edgar_form_d,,0
+"Dianthus Therapeutics, Inc. /DE/",2018-04-09,series-a,,other,,1690585,,sec_edgar_form_d,,0
+"Dianthus Therapeutics, Inc. /DE/",2017-05-05,series-a,,other,,1690585,,sec_edgar_form_d,,0
+"Dianthus Therapeutics, Inc. /DE/",2016-11-23,series-a,,other,,1690585,,sec_edgar_form_d,,0
+RADIAN GROUP INC,2026-02-09,series-a,,other,,890926,,sec_edgar_form_d,,0
+Ondas Inc.,2026-04-15,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2025-11-13,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2024-03-08,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2023-08-17,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2023-08-16,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2023-08-04,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2022-04-08,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2021-08-09,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2020-09-02,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2020-08-18,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2019-12-04,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2019-10-01,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Ondas Inc.,2018-10-04,series-a,,other,,1646188,,sec_edgar_form_d,,0
+Garrett Motion Inc.,2021-05-03,series-a,,other,,1735707,,sec_edgar_form_d,,0
+"Doximity, Inc.",2012-10-12,series-a,,other,,1516513,,sec_edgar_form_d,,0
+"Doximity, Inc.",2011-03-25,series-a,,other,,1516513,,sec_edgar_form_d,,0
+PATTERSON UTI ENERGY INC,2018-11-02,series-a,,other,,889900,,sec_edgar_form_d,,0
+PATTERSON UTI ENERGY INC,2012-06-18,series-a,,other,,889900,,sec_edgar_form_d,,0
+PATTERSON UTI ENERGY INC,2010-10-06,series-a,,other,,889900,,sec_edgar_form_d,,0
+"CSW INDUSTRIALS, INC.",2021-12-16,series-a,,other,,1624794,,sec_edgar_form_d,,0
+"CSW INDUSTRIALS, INC.",2020-12-29,series-a,,other,,1624794,,sec_edgar_form_d,,0
+"Navan, Inc.",2021-10-26,series-a,,other,,1639723,,sec_edgar_form_d,,0
+"Navan, Inc.",2021-02-04,series-a,,other,,1639723,,sec_edgar_form_d,,0
+"Navan, Inc.",2019-07-11,series-a,,other,,1639723,,sec_edgar_form_d,,0
+"Navan, Inc.",2018-11-09,series-a,,other,,1639723,,sec_edgar_form_d,,0
+"Navan, Inc.",2016-03-01,series-a,,other,,1639723,,sec_edgar_form_d,,0
+"Navan, Inc.",2015-05-08,series-a,,other,,1639723,,sec_edgar_form_d,,0
+"LAUREATE EDUCATION, INC.",2017-01-03,series-a,,other,,912766,,sec_edgar_form_d,,0
+"MARA Holdings, Inc.",2015-02-04,series-a,,other,,1507605,,sec_edgar_form_d,,0
+"MARA Holdings, Inc.",2014-10-21,series-a,,other,,1507605,,sec_edgar_form_d,,0
+"MARA Holdings, Inc.",2014-05-06,series-a,,other,,1507605,,sec_edgar_form_d,,0
+"MARA Holdings, Inc.",2013-06-13,series-a,,other,,1507605,,sec_edgar_form_d,,0
+"MARA Holdings, Inc.",2013-01-04,series-a,,other,,1507605,,sec_edgar_form_d,,0
+"MIAMI INTERNATIONAL HOLDINGS, INC.",2021-08-09,series-a,,other,,1438472,,sec_edgar_form_d,,0
+"MIAMI INTERNATIONAL HOLDINGS, INC.",2020-12-18,series-a,,other,,1438472,,sec_edgar_form_d,,0
+"MIAMI INTERNATIONAL HOLDINGS, INC.",2018-02-02,series-a,,other,,1438472,,sec_edgar_form_d,,0
+"MIAMI INTERNATIONAL HOLDINGS, INC.",2018-01-12,series-a,,other,,1438472,,sec_edgar_form_d,,0
+"MIAMI INTERNATIONAL HOLDINGS, INC.",2016-07-12,series-a,,other,,1438472,,sec_edgar_form_d,,0
+"MIAMI INTERNATIONAL HOLDINGS, INC.",2015-12-11,series-a,,other,,1438472,,sec_edgar_form_d,,0
+Orla Mining Ltd.,2020-04-15,series-a,,other,,1680056,,sec_edgar_form_d,,0
+Orla Mining Ltd.,2020-01-02,series-a,,other,,1680056,,sec_edgar_form_d,,0
+Orla Mining Ltd.,2019-07-26,series-a,,other,,1680056,,sec_edgar_form_d,,0
+Orla Mining Ltd.,2018-02-27,series-a,,other,,1680056,,sec_edgar_form_d,,0
+Orla Mining Ltd.,2016-10-27,series-a,,other,,1680056,,sec_edgar_form_d,,0
+Orla Mining Ltd.,2016-07-25,series-a,,other,,1680056,,sec_edgar_form_d,,0
+"Kiniksa Pharmaceuticals International, plc",2020-11-23,series-a,,other,,1730430,,sec_edgar_form_d,,0
+"Kiniksa Pharmaceuticals International, plc",2019-07-11,series-a,,other,,1730430,,sec_edgar_form_d,,0
+"Kiniksa Pharmaceuticals International, plc",2019-04-04,series-a,,other,,1730430,,sec_edgar_form_d,,0
+"Shift4 Payments, Inc.",2023-01-24,series-a,,other,,1794669,,sec_edgar_form_d,,0
+"Shift4 Payments, Inc.",2022-12-23,series-a,,other,,1794669,,sec_edgar_form_d,,0
+"Shift4 Payments, Inc.",2022-11-10,series-a,,other,,1794669,,sec_edgar_form_d,,0
+"Shift4 Payments, Inc.",2022-09-23,series-a,,other,,1794669,,sec_edgar_form_d,,0
+"Shift4 Payments, Inc.",2022-06-15,series-a,,other,,1794669,,sec_edgar_form_d,,0
+"Crinetics Pharmaceuticals, Inc.",2024-03-11,series-a,,other,,1658247,,sec_edgar_form_d,,0
+"Crinetics Pharmaceuticals, Inc.",2018-02-23,series-a,,other,,1658247,,sec_edgar_form_d,,0
+"Crinetics Pharmaceuticals, Inc.",2015-11-16,series-a,,other,,1658247,,sec_edgar_form_d,,0
+"Veradermics, Inc",2025-10-28,series-a,,other,,1827635,,sec_edgar_form_d,,0
+"Veradermics, Inc",2024-12-10,series-a,,other,,1827635,,sec_edgar_form_d,,0
+"Veradermics, Inc",2023-05-01,series-a,,other,,1827635,,sec_edgar_form_d,,0
+"Veradermics, Inc",2021-10-07,series-a,,other,,1827635,,sec_edgar_form_d,,0
+"Veradermics, Inc",2021-10-06,series-a,,other,,1827635,,sec_edgar_form_d,,0
+"Veradermics, Inc",2020-10-09,series-a,,other,,1827635,,sec_edgar_form_d,,0
+"Fastly, Inc.",2020-10-16,series-a,,other,,1517413,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2020-10-27,series-a,,other,,1430723,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2017-11-17,series-a,,other,,1430723,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2015-07-16,series-a,,other,,1430723,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2013-05-21,series-a,,other,,1430723,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2012-11-26,series-a,,other,,1430723,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2011-05-17,series-a,,other,,1430723,,sec_edgar_form_d,,0
+"ServisFirst Bancshares, Inc.",2010-03-30,series-a,,other,,1430723,,sec_edgar_form_d,,0
+MDA Space Ltd.,2021-04-19,series-a,,other,,1857047,,sec_edgar_form_d,,0
+"Lemonade, Inc.",2019-07-09,series-a,,other,,1691421,,sec_edgar_form_d,,0
+"Lemonade, Inc.",2019-07-08,series-a,,other,,1691421,,sec_edgar_form_d,,0
+"Lemonade, Inc.",2018-03-20,series-a,,other,,1691421,,sec_edgar_form_d,,0
+"Lemonade, Inc.",2016-12-02,series-a,,other,,1691421,,sec_edgar_form_d,,0
+"International Seaways, Inc.",2025-10-07,series-a,,other,,1679049,,sec_edgar_form_d,,0
+Gitlab Inc.,2016-09-29,series-a,,other,,1653482,,sec_edgar_form_d,,0
+Gitlab Inc.,2015-09-24,series-a,,other,,1653482,,sec_edgar_form_d,,0
+GRIFFON CORP,2010-10-14,series-a,,other,,50725,,sec_edgar_form_d,,0
+"Helmerich & Payne, Inc.",2017-12-15,series-a,,other,,46765,,sec_edgar_form_d,,0
+"Champion Homes, Inc.",2018-06-14,series-a,,other,,90896,,sec_edgar_form_d,,0
+"SOUNDHOUND AI, INC.",2023-01-31,series-a,,other,,1840856,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2026-04-16,series-a,,other,,1784570,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2025-09-12,series-a,,other,,1784570,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2025-08-27,series-a,,other,,1784570,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2024-11-07,series-a,,other,,1784570,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2022-04-19,series-a,,other,,1784570,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2021-05-24,series-a,,other,,1784570,,sec_edgar_form_d,,0
+"BETA Technologies, Inc.",2021-04-01,series-a,,other,,1784570,,sec_edgar_form_d,,0
+Waystar Holding Corp.,2025-10-10,series-a,,other,,1990354,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2015-06-25,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2014-02-20,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2013-06-17,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2013-02-01,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2012-12-28,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2012-10-31,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2012-01-05,series-a,,other,,907654,,sec_edgar_form_d,,0
+"Oruka Therapeutics, Inc.",2009-10-26,series-a,,other,,907654,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2026-04-10,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2025-04-25,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2024-04-19,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2023-04-28,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2022-04-28,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2021-04-30,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2020-05-01,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2019-05-01,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2018-05-15,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2018-05-07,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2017-07-14,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2017-05-03,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2016-10-06,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2016-05-04,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2015-09-21,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2015-05-04,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2015-05-01,series-a,,other,,1466085,,sec_edgar_form_d,,0
+"INDEPENDENCE REALTY TRUST, INC.",2011-12-21,series-a,,other,,1466085,,sec_edgar_form_d,,0
+UNITED COMMUNITY BANKS INC,2018-02-14,series-a,,other,,857855,,sec_edgar_form_d,,0
+Montage Gold Corp.,2024-08-28,series-a,,other,,1830918,,sec_edgar_form_d,,0
+Montage Gold Corp.,2023-05-19,series-a,,other,,1830918,,sec_edgar_form_d,,0
+Montage Gold Corp.,2020-11-04,series-a,,other,,1830918,,sec_edgar_form_d,,0
+"BILL Holdings, Inc.",2021-06-15,series-a,,other,,1786352,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2015-03-16,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2014-05-23,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2013-04-08,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2012-11-13,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2012-01-26,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2011-10-24,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2011-05-05,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2010-05-18,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"iRhythm Holdings, Inc.",2009-04-23,series-a,,other,,1388658,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2017-05-10,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2016-01-26,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2015-07-30,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2015-04-30,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2014-11-12,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2013-01-02,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2011-07-21,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2011-06-17,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2011-03-10,series-a,,other,,1124796,,sec_edgar_form_d,,0
+"NLIGHT, INC.",2009-06-29,series-a,,other,,1124796,,sec_edgar_form_d,,0
+NGEx Minerals Ltd.,2025-10-23,series-a,,other,,2044153,,sec_edgar_form_d,,0
+NGEx Minerals Ltd.,2024-11-13,series-a,,other,,2044153,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2019-11-19,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2018-11-19,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2017-10-20,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2016-07-19,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2015-10-28,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2014-10-28,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2013-09-23,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2012-10-12,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2011-10-13,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2010-10-13,series-a,,other,,1424182,,sec_edgar_form_d,,0
+"Broadstone Net Lease, Inc.",2009-10-14,series-a,,other,,1424182,,sec_edgar_form_d,,0
+Travel & Leisure Co.,2019-08-22,series-a,,other,,1361658,,sec_edgar_form_d,,0
+THOR INDUSTRIES INC,2010-09-29,series-a,,other,,730263,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2023-12-28,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2023-12-21,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2021-04-01,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2020-07-01,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2019-06-06,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2017-07-24,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2017-06-16,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2016-06-20,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Hinge Health, Inc.",2016-05-04,series-a,,other,,1673743,,sec_edgar_form_d,,0
+"Vita Coco Company, Inc.",2014-07-23,series-a,,other,,1482981,,sec_edgar_form_d,,0
+"Vita Coco Company, Inc.",2012-05-24,series-a,,other,,1482981,,sec_edgar_form_d,,0
+"Vita Coco Company, Inc.",2011-02-18,series-a,,other,,1482981,,sec_edgar_form_d,,0
+"Vita Coco Company, Inc.",2010-05-14,series-a,,other,,1482981,,sec_edgar_form_d,,0
+"Vita Coco Company, Inc.",2010-02-03,series-a,,other,,1482981,,sec_edgar_form_d,,0
+ACADIA PHARMACEUTICALS INC,2013-01-02,series-a,,other,,1070494,,sec_edgar_form_d,,0
+ACADIA PHARMACEUTICALS INC,2011-01-24,series-a,,other,,1070494,,sec_edgar_form_d,,0
+BANCFIRST CORP /OK/,2021-06-22,series-a,,other,,760498,,sec_edgar_form_d,,0
+"Life360, Inc.",2017-12-15,series-a,,other,,1581760,,sec_edgar_form_d,,0
+"Life360, Inc.",2017-07-27,series-a,,other,,1581760,,sec_edgar_form_d,,0
+"Life360, Inc.",2014-05-19,series-a,,other,,1581760,,sec_edgar_form_d,,0
+"Life360, Inc.",2013-11-22,series-a,,other,,1581760,,sec_edgar_form_d,,0
+"Life360, Inc.",2013-07-19,series-a,,other,,1581760,,sec_edgar_form_d,,0
+"Viking Therapeutics, Inc.",2017-06-22,series-a,,other,,1607678,,sec_edgar_form_d,,0
+Howard Hughes Holdings Inc.,2026-05-04,series-a,,other,,1981792,,sec_edgar_form_d,,0
+Howard Hughes Holdings Inc.,2025-05-21,series-a,,other,,1981792,,sec_edgar_form_d,,0
+Navitas Semiconductor Corp,2025-11-21,series-a,,other,,1821769,,sec_edgar_form_d,,0
+"e.l.f. Beauty, Inc.",2014-02-14,series-a,,other,,1600033,,sec_edgar_form_d,,0
+"GOLUB CAPITAL BDC, Inc.",2016-07-25,series-a,,other,,1476765,,sec_edgar_form_d,,0
+Skeena Resources Ltd,2019-05-01,series-a,,other,,1713748,,sec_edgar_form_d,,0
+Skeena Resources Ltd,2018-04-11,series-a,,other,,1713748,,sec_edgar_form_d,,0
+Skeena Resources Ltd,2017-08-10,series-a,,other,,1713748,,sec_edgar_form_d,,0
+Allied Gold Corp,2023-09-21,series-a,,other,,1993344,,sec_edgar_form_d,,0
+BKV Corp,2023-10-10,series-a,,other,,1838406,,sec_edgar_form_d,,0
+BKV Corp,2020-12-30,series-a,,other,,1838406,,sec_edgar_form_d,,0
+BOX INC,2021-05-17,series-a,,other,,1372612,,sec_edgar_form_d,,0
+"Hagerty, Inc.",2023-07-05,series-a,,other,,1840776,,sec_edgar_form_d,,0
+SCOTTS MIRACLE-GRO CO,2022-01-07,series-a,,other,,825542,,sec_edgar_form_d,,0
+Liquidia Corp,2021-04-16,series-a,,other,,1819576,,sec_edgar_form_d,,0
+AMERICOLD REALTY TRUST,2021-01-13,series-a,,other,,1455863,,sec_edgar_form_d,,0
+DENISON MINES CORP.,2013-06-27,series-a,,other,,1063259,,sec_edgar_form_d,,0
+DENISON MINES CORP.,2010-12-20,series-a,,other,,1063259,,sec_edgar_form_d,,0
+Neptune Insurance Holdings Inc.,2025-05-12,series-a,,other,,2067129,,sec_edgar_form_d,,0
+"Edgewise Therapeutics, Inc.",2020-12-10,series-a,,other,,1710072,,sec_edgar_form_d,,0
+"Edgewise Therapeutics, Inc.",2019-09-26,series-a,,other,,1710072,,sec_edgar_form_d,,0
+"ACM Research, Inc.",2016-08-16,series-a,,other,,1680062,,sec_edgar_form_d,,0
+"BREAD FINANCIAL HOLDINGS, INC.",2020-12-18,series-a,,other,,1101215,,sec_edgar_form_d,,0
+SPROTT INC.,2017-03-07,series-a,,other,,1512920,,sec_edgar_form_d,,0
+SPROTT INC.,2016-03-07,series-a,,other,,1512920,,sec_edgar_form_d,,0
+SPROTT INC.,2015-03-05,series-a,,other,,1512920,,sec_edgar_form_d,,0
+SPROTT INC.,2014-03-05,series-a,,other,,1512920,,sec_edgar_form_d,,0
+SPROTT INC.,2013-03-20,series-a,,other,,1512920,,sec_edgar_form_d,,0
+PERPETUA RESOURCES CORP.,2015-05-29,series-a,,other,,1526243,,sec_edgar_form_d,,0
+PERPETUA RESOURCES CORP.,2014-03-18,series-a,,other,,1526243,,sec_edgar_form_d,,0
+PERPETUA RESOURCES CORP.,2012-02-23,series-a,,other,,1526243,,sec_edgar_form_d,,0
+PERPETUA RESOURCES CORP.,2011-07-20,series-a,,other,,1526243,,sec_edgar_form_d,,0
+"Option Care Health, Inc.",2015-03-24,series-a,,other,,1014739,,sec_edgar_form_d,,0
+HYCROFT MINING HOLDING CORP,2025-09-24,series-a,,other,,1718405,,sec_edgar_form_d,,0
+HYCROFT MINING HOLDING CORP,2022-03-29,series-a,,other,,1718405,,sec_edgar_form_d,,0
+"CLEANSPARK, INC.",2017-08-21,series-a,,other,,827876,,sec_edgar_form_d,,0
+"CLEANSPARK, INC.",2016-06-08,series-a,,other,,827876,,sec_edgar_form_d,,0
+"CLEANSPARK, INC.",2014-05-23,series-a,,other,,827876,,sec_edgar_form_d,,0
+"Tango Therapeutics, Inc.",2025-10-28,series-a,,other,,1819133,,sec_edgar_form_d,,0
+"Tango Therapeutics, Inc.",2023-08-24,series-a,,other,,1819133,,sec_edgar_form_d,,0
+WESBANCO INC,2024-08-07,series-a,,other,,203596,,sec_edgar_form_d,,0
+Cushman & Wakefield Ltd.,2014-12-31,series-a,,other,,1628369,,sec_edgar_form_d,,0
+PEABODY ENERGY CORP,2017-04-18,series-a,,other,,1064728,,sec_edgar_form_d,,0
+VARONIS SYSTEMS INC,2012-02-09,series-a,,other,,1361113,,sec_edgar_form_d,,0
+VARONIS SYSTEMS INC,2011-03-07,series-a,,other,,1361113,,sec_edgar_form_d,,0
+VARONIS SYSTEMS INC,2010-08-24,series-a,,other,,1361113,,sec_edgar_form_d,,0
+WORKIVA INC,2014-10-17,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2012-12-27,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2012-10-16,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2011-11-14,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2010-07-12,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2010-04-06,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2010-02-12,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2009-12-18,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2009-10-22,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2009-10-13,series-a,,other,,1445305,,sec_edgar_form_d,,0
+WORKIVA INC,2009-09-28,series-a,,other,,1445305,,sec_edgar_form_d,,0
+ALUMIS INC.,2024-07-24,series-a,,other,,1847367,,sec_edgar_form_d,,0
+ALUMIS INC.,2024-03-11,series-a,,other,,1847367,,sec_edgar_form_d,,0
+ALUMIS INC.,2021-03-19,series-a,,other,,1847367,,sec_edgar_form_d,,0
+ALUMIS INC.,2021-02-25,series-a,,other,,1847367,,sec_edgar_form_d,,0
+"Chefs' Warehouse, Inc.",2017-08-30,series-a,,other,,1517175,,sec_edgar_form_d,,0
+"Erasca, Inc.",2020-04-30,series-a,,other,,1761918,,sec_edgar_form_d,,0
+"Erasca, Inc.",2019-03-11,series-a,,other,,1761918,,sec_edgar_form_d,,0
+"Erasca, Inc.",2019-01-15,series-a,,other,,1761918,,sec_edgar_form_d,,0
+FIRST FINANCIAL BANCORP /OH/,2019-06-24,series-a,,other,,708955,,sec_edgar_form_d,,0
+CCC Intelligent Solutions Holdings Inc.,2025-01-06,series-a,,other,,1818201,,sec_edgar_form_d,,0
+PARK NATIONAL CORP /OH/,2012-04-20,series-a,,other,,805676,,sec_edgar_form_d,,0
+Beam Therapeutics Inc.,2019-03-26,series-a,,other,,1745999,,sec_edgar_form_d,,0
+Beam Therapeutics Inc.,2018-08-09,series-a,,other,,1745999,,sec_edgar_form_d,,0
+NICOLET BANKSHARES INC,2022-09-08,series-a,,other,,1174850,,sec_edgar_form_d,,0
+NICOLET BANKSHARES INC,2021-07-21,series-a,,other,,1174850,,sec_edgar_form_d,,0
+Seadrill Ltd,2018-07-13,series-a,,other,,1737706,,sec_edgar_form_d,,0
+"Upstart Holdings, Inc.",2017-03-02,series-a,,other,,1647639,,sec_edgar_form_d,,0
+"Upstart Holdings, Inc.",2015-07-16,series-a,,other,,1647639,,sec_edgar_form_d,,0
+Structure Therapeutics Inc.,2022-01-10,series-a,,other,,1888886,,sec_edgar_form_d,,0
+Structure Therapeutics Inc.,2021-10-21,series-a,,other,,1888886,,sec_edgar_form_d,,0
+eToro Group Ltd.,2022-10-31,series-a,,other,,1493318,,sec_edgar_form_d,,0
+eToro Group Ltd.,2012-03-30,series-a,,other,,1493318,,sec_edgar_form_d,,0
+eToro Group Ltd.,2011-01-14,series-a,,other,,1493318,,sec_edgar_form_d,,0
+eToro Group Ltd.,2010-06-09,series-a,,other,,1493318,,sec_edgar_form_d,,0
+"Privia Health Group, Inc.",2020-03-11,series-a,,other,,1759655,,sec_edgar_form_d,,0
+"Privia Health Group, Inc.",2019-02-13,series-a,,other,,1759655,,sec_edgar_form_d,,0
+"DigitalBridge Group, Inc.",2017-01-25,series-a,,other,,1679688,,sec_edgar_form_d,,0
+SEABRIDGE GOLD INC,2015-11-05,series-a,,other,,1231346,,sec_edgar_form_d,,0
+"Black Stone Minerals, L.P.",2025-03-25,series-a,,other,,1621434,,sec_edgar_form_d,,0
+"Black Stone Minerals, L.P.",2018-10-31,series-a,,other,,1621434,,sec_edgar_form_d,,0
+"Black Stone Minerals, L.P.",2017-08-31,series-a,,other,,1621434,,sec_edgar_form_d,,0
+"Black Stone Minerals, L.P.",2017-07-03,series-a,,other,,1621434,,sec_edgar_form_d,,0
+"DHT Holdings, Inc.",2014-09-22,series-a,,other,,1331284,,sec_edgar_form_d,,0
+"DHT Holdings, Inc.",2013-12-03,series-a,,other,,1331284,,sec_edgar_form_d,,0
+Sunrun Inc.,2021-01-19,series-a,,other,,1469367,,sec_edgar_form_d,,0
+"Hamilton Insurance Group, Ltd.",2015-01-13,series-a,,other,,1593275,,sec_edgar_form_d,,0
+"Hamilton Insurance Group, Ltd.",2013-12-23,series-a,,other,,1593275,,sec_edgar_form_d,,0
+Denali Therapeutics Inc.,2024-03-01,series-a,,other,,1714899,,sec_edgar_form_d,,0
+"Arcutis Biotherapeutics, Inc.",2019-10-22,series-a,,other,,1787306,,sec_edgar_form_d,,0
+NEKTAR THERAPEUTICS,2024-03-19,series-a,,other,,906709,,sec_edgar_form_d,,0
+NEKTAR THERAPEUTICS,2018-04-03,series-a,,other,,906709,,sec_edgar_form_d,,0
+"Dyne Therapeutics, Inc.",2020-08-14,series-a,,other,,1818794,,sec_edgar_form_d,,0
+Sezzle Inc.,2021-08-02,series-a,,other,,1662991,,sec_edgar_form_d,,0
+Sezzle Inc.,2019-04-17,series-a,,other,,1662991,,sec_edgar_form_d,,0
+Sezzle Inc.,2019-04-09,series-a,,other,,1662991,,sec_edgar_form_d,,0
+Sezzle Inc.,2018-04-24,series-a,,other,,1662991,,sec_edgar_form_d,,0
+Sezzle Inc.,2016-11-14,series-a,,other,,1662991,,sec_edgar_form_d,,0
+Sezzle Inc.,2016-03-09,series-a,,other,,1662991,,sec_edgar_form_d,,0
+TMC the metals Co Inc.,2022-08-26,series-a,,other,,1798562,,sec_edgar_form_d,,0
+Integer Holdings Corp,2015-11-18,series-a,,other,,1114483,,sec_edgar_form_d,,0
+"BANC OF CALIFORNIA, INC.",2022-09-22,series-a,,other,,1169770,,sec_edgar_form_d,,0
+"Amprius Technologies, Inc.",2022-10-05,series-a,,other,,1899287,,sec_edgar_form_d,,0
+"NMI Holdings, Inc.",2012-04-23,series-a,,other,,1547903,,sec_edgar_form_d,,0
+FORTUNA MINING CORP.,2013-06-11,series-a,,other,,1341335,,sec_edgar_form_d,,0
+FORTUNA MINING CORP.,2012-06-12,series-a,,other,,1341335,,sec_edgar_form_d,,0
+CECO ENVIRONMENTAL CORP,2009-12-07,series-a,,other,,3197,,sec_edgar_form_d,,0
+"10x Genomics, Inc.",2019-05-09,series-a,,other,,1770787,,sec_edgar_form_d,,0
+"Green Brick Partners, Inc.",2017-08-16,series-a,,other,,1373670,,sec_edgar_form_d,,0
+"Xometry, Inc.",2018-07-13,series-a,,other,,1657573,,sec_edgar_form_d,,0
+"Xometry, Inc.",2017-06-29,series-a,,other,,1657573,,sec_edgar_form_d,,0
+"Xometry, Inc.",2017-02-01,series-a,,other,,1657573,,sec_edgar_form_d,,0
+"Xometry, Inc.",2015-11-12,series-a,,other,,1657573,,sec_edgar_form_d,,0
+LIGAND PHARMACEUTICALS INC,2016-01-25,series-a,,other,,886163,,sec_edgar_form_d,,0
+FB Financial Corp,2017-06-09,series-a,,other,,1649749,,sec_edgar_form_d,,0
+"EURONET WORLDWIDE, INC.",2015-07-17,series-a,,other,,1029199,,sec_edgar_form_d,,0
+"EURONET WORLDWIDE, INC.",2014-03-25,series-a,,other,,1029199,,sec_edgar_form_d,,0
+"Braze, Inc.",2025-04-10,series-a,,other,,1676238,,sec_edgar_form_d,,0
+"Braze, Inc.",2018-10-04,series-a,,other,,1676238,,sec_edgar_form_d,,0
+"Braze, Inc.",2017-08-14,series-a,,other,,1676238,,sec_edgar_form_d,,0
+"Braze, Inc.",2017-07-20,series-a,,other,,1676238,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2023-10-04,series-a,,other,,1484565,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2017-12-22,series-a,,other,,1484565,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2017-02-08,series-a,,other,,1484565,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2016-07-06,series-a,,other,,1484565,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2015-10-22,series-a,,other,,1484565,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2015-10-21,series-a,,other,,1484565,,sec_edgar_form_d,,0
+SOLENO THERAPEUTICS INC,2015-03-11,series-a,,other,,1484565,,sec_edgar_form_d,,0
+Pattern Group Inc.,2020-05-15,series-a,,other,,1811935,,sec_edgar_form_d,,0
+TALOS ENERGY INC.,2024-03-18,series-a,,other,,1724965,,sec_edgar_form_d,,0
+Warby Parker Inc.,2018-03-23,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2015-05-08,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2013-12-30,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2013-08-28,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2013-01-29,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2012-09-07,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2011-09-21,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2011-05-31,series-a,,other,,1504776,,sec_edgar_form_d,,0
+Warby Parker Inc.,2010-11-03,series-a,,other,,1504776,,sec_edgar_form_d,,0
+"Andersons, Inc.",2019-01-11,series-a,,other,,821026,,sec_edgar_form_d,,0
+ENDEAVOUR SILVER CORP,2010-12-17,series-a,,other,,1277866,,sec_edgar_form_d,,0
+ENDEAVOUR SILVER CORP,2009-11-06,series-a,,other,,1277866,,sec_edgar_form_d,,0
+SILVERCORP METALS INC,2009-03-25,series-a,,other,,1340677,,sec_edgar_form_d,,0
+WAFD INC,2023-02-28,series-a,,other,,936528,,sec_edgar_form_d,,0
+"VERACYTE, INC.",2014-09-30,series-a,,other,,1384101,,sec_edgar_form_d,,0
+"Infleqtion, Inc.",2026-02-25,series-a,,other,,2007825,,sec_edgar_form_d,,0
+"StubHub Holdings, Inc.",2011-09-27,series-a,,other,,1337634,,sec_edgar_form_d,,0
+"StubHub Holdings, Inc.",2011-03-31,series-a,,other,,1337634,,sec_edgar_form_d,,0
+"StubHub Holdings, Inc.",2009-08-06,series-a,,other,,1337634,,sec_edgar_form_d,,0
+Aecon Group Inc.,2025-08-12,series-a,,other,,1309167,,sec_edgar_form_d,,0
+Immunome Inc.,2021-05-11,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2020-06-16,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2020-06-01,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2019-11-19,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2019-05-29,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2019-02-01,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2017-05-30,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2016-07-14,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2015-12-02,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2015-04-13,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2014-10-14,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2014-03-19,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2014-03-03,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2013-02-20,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2012-01-27,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2011-06-08,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2010-10-05,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2010-10-04,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2010-05-03,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Immunome Inc.,2009-09-14,series-a,,other,,1472012,,sec_edgar_form_d,,0
+Kodiak Sciences Inc.,2016-03-24,series-a,,other,,1468748,,sec_edgar_form_d,,0
+Kodiak Sciences Inc.,2009-07-28,series-a,,other,,1468748,,sec_edgar_form_d,,0
+HAWAIIAN ELECTRIC INDUSTRIES INC,2013-03-13,series-a,,other,,354707,,sec_edgar_form_d,,0
+"Celldex Therapeutics, Inc.",2016-11-29,series-a,,other,,744218,,sec_edgar_form_d,,0
+"Celldex Therapeutics, Inc.",2014-10-24,series-a,,other,,744218,,sec_edgar_form_d,,0
+"Curaleaf Holdings, Inc.",2026-03-11,series-a,,other,,1756770,,sec_edgar_form_d,,0
+"Curaleaf Holdings, Inc.",2025-01-31,series-a,,other,,1756770,,sec_edgar_form_d,,0
+"Curaleaf Holdings, Inc.",2021-12-30,series-a,,other,,1756770,,sec_edgar_form_d,,0
+"Curaleaf Holdings, Inc.",2019-06-18,series-a,,other,,1756770,,sec_edgar_form_d,,0
+"Curaleaf Holdings, Inc.",2018-11-08,series-a,,other,,1756770,,sec_edgar_form_d,,0
+"Curaleaf Holdings, Inc.",2018-11-07,series-a,,other,,1756770,,sec_edgar_form_d,,0
+GABELLI DIVIDEND & INCOME TRUST,2024-10-22,series-a,,other,,1260729,,sec_edgar_form_d,,0
+"Vera Therapeutics, Inc.",2021-02-25,series-a,,other,,1831828,,sec_edgar_form_d,,0
+Trump Media & Technology Group Corp.,2021-12-15,series-a,,other,,1849635,,sec_edgar_form_d,,0
+"IDEAYA Biosciences, Inc.",2018-05-11,series-a,,other,,1676725,,sec_edgar_form_d,,0
+"IDEAYA Biosciences, Inc.",2016-08-26,series-a,,other,,1676725,,sec_edgar_form_d,,0
+"Enliven Therapeutics, Inc.",2024-04-03,series-a,,other,,1672619,,sec_edgar_form_d,,0
+"Enliven Therapeutics, Inc.",2019-03-29,series-a,,other,,1672619,,sec_edgar_form_d,,0
+"Enliven Therapeutics, Inc.",2016-04-21,series-a,,other,,1672619,,sec_edgar_form_d,,0
+Sigma Lithium Corp,2021-02-26,series-a,,other,,1848309,,sec_edgar_form_d,,0
+Freshworks Inc.,2020-07-08,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2018-08-08,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2016-11-16,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2015-05-14,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2014-06-17,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2013-11-21,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2012-04-27,series-a,,other,,1544522,,sec_edgar_form_d,,0
+Freshworks Inc.,2012-03-14,series-a,,other,,1544522,,sec_edgar_form_d,,0
+"Relay Therapeutics, Inc.",2024-01-10,series-a,,other,,1812364,,sec_edgar_form_d,,0
+TASEKO MINES LTD,2009-04-28,series-a,,other,,878518,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2019-06-14,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2017-12-04,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2016-05-20,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2015-02-12,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2014-02-27,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2012-02-02,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2011-12-30,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2011-02-04,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2010-09-01,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2010-06-14,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2010-04-19,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Heartflow, Inc.",2009-07-10,series-a,,other,,1464521,,sec_edgar_form_d,,0
+"Bancorp, Inc.",2016-08-18,series-a,,other,,1295401,,sec_edgar_form_d,,0
+NEXTNAV INC.,2025-04-07,series-a,,other,,1865631,,sec_edgar_form_d,,0
+NEXTNAV INC.,2022-11-14,series-a,,other,,1865631,,sec_edgar_form_d,,0
+"Mineralys Therapeutics, Inc.",2022-06-13,series-a,,other,,1933414,,sec_edgar_form_d,,0

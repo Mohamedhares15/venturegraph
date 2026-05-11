@@ -1,0 +1,341 @@
+source_id,source_name,matched_id,match_type,score,source,matched_name
+edgar_c_4ab4b9b59c5e,MICROSOFT CORP,r:23825,exact,1.0,edgar,
+edgar_c_5714d95fddad,"Tesla, Inc.",r:5712,exact,1.0,edgar,
+edgar_c_710276817698,VISA INC.,c:17066,exact,1.0,edgar,
+edgar_c_32bf5042bbb7,INTEL CORP,c:71,exact,1.0,edgar,
+edgar_c_f1c69ae89c95,Palantir Technologies Inc.,c:31006,exact,1.0,edgar,
+edgar_c_a63ce998f4a7,"HOME DEPOT, INC.",c:224067,exact,1.0,edgar,
+edgar_c_87a5206e4851,TOYOTA MOTOR CORP/,c:248996,fuzzy_high,0.9263,edgar,toyota motor credit
+edgar_c_0788fc7c2f41,SHOPIFY INC.,c:38811,exact,1.0,edgar,
+edgar_c_b1338288226e,AppLovin Corp,c:198185,exact,1.0,edgar,
+edgar_c_332d28c62b31,"Uber Technologies, Inc",edgar_c_332d28c62b31,new,0.8769607843137255,edgar,
+edgar_c_c54524af27e2,"Marvell Technology, Inc.",c:243003,exact,1.0,edgar,
+edgar_c_f4944d9881ef,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",edgar_c_f4944d9881ef,new,0.8516129032258064,edgar,
+edgar_c_0a01c966d271,ADVANTEST CORP,c:20007,exact,1.0,edgar,
+edgar_c_c54d2193bd1c,Booking Holdings Inc.,edgar_c_c54d2193bd1c,new,0.9050641025641025,edgar,
+edgar_c_57216f7c97ad,ENBRIDGE INC,c:143222,exact,1.0,edgar,
+edgar_c_bb6696e606aa,EQUINIX INC,c:8931,exact,1.0,edgar,
+edgar_c_245e3620b331,SYNOPSYS INC,c:42408,exact,1.0,edgar,
+edgar_c_524a5acb3b86,"ServiceNow, Inc.",r:22216,exact,1.0,edgar,
+edgar_c_4142d3a888aa,Spotify Technology S.A.,edgar_c_4142d3a888aa,new,0.892436974789916,edgar,
+edgar_c_93c14748e8f1,AGNICO EAGLE MINES LTD,edgar_c_93c14748e8f1,new,0.844957264957265,edgar,
+edgar_c_153698fcb7d4,BAE SYSTEMS PLC /FI/,c:36651,fuzzy_high,0.9571,edgar,bae systems
+edgar_c_51aae27061f7,FREEPORT-MCMORAN INC,edgar_c_51aae27061f7,new,0.9142857142857143,edgar,
+edgar_c_23b2e72f59f7,MOODYS CORP /DE/,c:23931,fuzzy_high,0.9333,edgar,moodys
+edgar_c_def4b2ca2da8,"Apollo Global Management, Inc.",f:7915,exact,1.0,edgar,
+edgar_c_7b842ef4c8c7,Energy Transfer LP,edgar_c_7b842ef4c8c7,new,0.9118055555555555,edgar,
+edgar_c_ba1b5c74f9b3,Nu Holdings Ltd.,edgar_c_ba1b5c74f9b3,new,0.9058823529411765,edgar,
+edgar_c_52a3074754ab,"CoreWeave, Inc.",c:257228,fuzzy_high,0.9333,edgar,courseweaver
+edgar_c_eaebf31a9b29,Targa Resources Corp.,edgar_c_eaebf31a9b29,new,0.8844444444444444,edgar,
+edgar_c_3940a0a975ef,"Autodesk, Inc.",c:5182,exact,1.0,edgar,
+edgar_c_510529e21cb9,Snowflake Inc.,edgar_c_510529e21cb9,new,0.8955555555555555,edgar,
+edgar_c_8a9cbd061855,GREAT-WEST LIFECO INC.,c:255698,fuzzy_high,0.9765,edgar,great-west life
+edgar_c_da288471bb96,"Block, Inc.",c:167620,fuzzy_high,0.96,edgar,bloc
+edgar_c_dac7d3dee428,TAKE TWO INTERACTIVE SOFTWARE INC,c:38219,fuzzy_high,0.9291,edgar,take-two interactive software
+edgar_c_f10e4b197dfb,"JD.com, Inc.",c:65045,exact,1.0,edgar,
+edgar_c_e50b371064c2,SUN LIFE FINANCIAL INC,f:14775,exact,1.0,edgar,
+edgar_c_656f05f9938d,HEICO CORP,c:79818,exact,1.0,edgar,
+edgar_c_54bdc127464b,"Astera Labs, Inc.",c:161289,fuzzy_high,0.9342,edgar,astral labs
+edgar_c_f8fbde22f3e2,Roblox Corp,c:28658,exact,1.0,edgar,
+edgar_c_9bc5de975c02,MASTEC INC,c:208984,exact,1.0,edgar,
+edgar_c_3e52375977b6,Credo Technology Group Holding Ltd,edgar_c_3e52375977b6,new,0.8400000000000001,edgar,
+edgar_c_a905d3cb97aa,"Reddit, Inc.",r:386,exact,1.0,edgar,
+edgar_c_923da4451e65,COPART INC,c:68030,exact,1.0,edgar,
+edgar_c_fe3187181981,DEVON ENERGY CORP/DE,c:280761,fuzzy_high,0.96,edgar,devon energy
+edgar_c_7bf06bf84f9a,"AXON ENTERPRISE, INC.",edgar_c_7bf06bf84f9a,new,0.8666666666666666,edgar,
+edgar_c_4a275f5dfa75,"Revolution Medicines, Inc.",edgar_c_4a275f5dfa75,new,0.915,edgar,
+edgar_c_9679f610e433,VICI PROPERTIES INC.,edgar_c_9679f610e433,new,0.86,edgar,
+edgar_c_871fb40aac42,TWILIO INC,c:13807,exact,1.0,edgar,
+edgar_c_6f142ea8d28a,PEMBINA PIPELINE CORP,edgar_c_6f142ea8d28a,new,0.8415404040404041,edgar,
+edgar_c_861c22203a02,FIRSTENERGY CORP,c:57930,exact,1.0,edgar,
+edgar_c_8e769fdd3682,"AST SpaceMobile, Inc.",edgar_c_8e769fdd3682,new,0.8641269841269842,edgar,
+edgar_c_b22918f81585,TOWER SEMICONDUCTOR LTD,c:3136,exact,1.0,edgar,
+edgar_c_7c1c768f3c4b,BioNTech SE,c:25312,fuzzy_high,0.9778,edgar,bionttech
+edgar_c_47337f6c85b8,"Everpure, Inc.",c:78341,fuzzy_high,0.9214,edgar,evertrue
+edgar_c_9bfc4e94a84b,"Zscaler, Inc.",r:23862,exact,1.0,edgar,
+edgar_c_6cb51dbf6329,CHURCH & DWIGHT CO INC /DE/,c:221339,fuzzy_high,0.9625,edgar,church dwight
+edgar_c_ad56cd251246,Brookfield Renewable Partners L.P.,edgar_c_ad56cd251246,new,0.8625,edgar,
+edgar_c_2b41759cb1ad,"SoFi Technologies, Inc.",c:53858,fuzzy_high,0.952,edgar,sod technologies
+edgar_c_d6777865eff8,GLOBAL PAYMENTS INC,c:33843,exact,1.0,edgar,
+edgar_c_98f1ec76ebf7,Madison Air Solutions Corp,edgar_c_98f1ec76ebf7,new,0.9024929971988795,edgar,
+edgar_c_e8c12e3691a4,Fortive Corp,c:118813,fuzzy_high,0.9429,edgar,fortiva
+edgar_c_cf9ed15b2416,"Coeur Mining, Inc.",edgar_c_cf9ed15b2416,new,0.877124183006536,edgar,
+edgar_c_e9875c350303,WOLTERS KLUWER N V /FI,c:25255,fuzzy_high,0.9333,edgar,wolters kluwer
+edgar_c_a15706040d48,Talen Energy Corp,edgar_c_a15706040d48,new,0.8914141414141414,edgar,
+edgar_c_2dc861c5d1c8,EAST WEST BANCORP INC,c:265622,exact,1.0,edgar,
+edgar_c_e2ba307fb539,ALAMOS GOLD INC,edgar_c_e2ba307fb539,new,0.8590909090909091,edgar,
+edgar_c_b91de619b7d1,"ZIMMER BIOMET HOLDINGS, INC.",edgar_c_b91de619b7d1,new,0.9096969696969697,edgar,
+edgar_c_9b19e1f0b5d4,BLUE OWL CAPITAL INC.,f:6852,fuzzy_high,0.9306,edgar,blue heron capital
+edgar_c_ce7210af0f47,SOMNIGROUP INTERNATIONAL INC.,edgar_c_ce7210af0f47,new,0.8582010582010582,edgar,
+edgar_c_9da83d5902ad,Legence Corp.,edgar_c_9da83d5902ad,new,0.9095238095238095,edgar,
+edgar_c_a263feaf0d4b,SITIME Corp,c:77603,exact,1.0,edgar,
+edgar_c_22339b047e12,ONTO INNOVATION INC.,edgar_c_22339b047e12,new,0.8514285714285714,edgar,
+edgar_c_ce35fcbacdd5,Warner Music Group Corp.,c:12673,exact,1.0,edgar,
+edgar_c_a6be37dfcfa7,Ascendis Pharma A/S,edgar_c_a6be37dfcfa7,new,0.8929292929292929,edgar,
+edgar_c_e93e8c875ac6,"QXO, Inc.",edgar_c_e93e8c875ac6,new,0.8222222222222222,edgar,
+edgar_c_84c6e5c9cf62,PERSHING SQUARE INC.,edgar_c_84c6e5c9cf62,new,0.8882352941176471,edgar,
+edgar_c_d0d3d3df65de,Lytus Technologies Holdings PTV. Ltd.,edgar_c_d0d3d3df65de,new,0.7967741935483871,edgar,
+edgar_c_30fdd094851d,Planet Labs PBC,c:231747,fuzzy_high,0.9467,edgar,planet labs
+edgar_c_3b20ab02a33b,Ally Financial Inc.,edgar_c_3b20ab02a33b,new,0.8740740740740741,edgar,
+edgar_c_6043348b406e,Summit Therapeutics Inc.,edgar_c_6043348b406e,new,0.8942645074224022,edgar,
+edgar_c_001489cee4c5,"BITMINE IMMERSION TECHNOLOGIES, INC.",edgar_c_001489cee4c5,new,0.86,edgar,
+edgar_c_c1aaac09ca25,Penumbra Inc,c:236632,exact,1.0,edgar,
+edgar_c_7a0d42c1755e,Daiwa Securities Group Inc.,f:3035,exact,1.0,edgar,
+edgar_c_8aa70f34035d,CNH Industrial N.V.,edgar_c_8aa70f34035d,new,0.8019909502262443,edgar,
+edgar_c_f23978924e87,PINNACLE WEST CAPITAL CORP,edgar_c_f23978924e87,new,0.8811309523809523,edgar,
+edgar_c_0183b3b302f2,"BJ's Wholesale Club Holdings, Inc.",edgar_c_0183b3b302f2,new,0.7448361823361823,edgar,
+edgar_c_7f3669a7fe60,RAMBUS INC,c:14900,exact,1.0,edgar,
+edgar_c_9d1013423a99,"MADRIGAL PHARMACEUTICALS, INC.",c:273512,exact,1.0,edgar,
+edgar_c_fe4d4a2020b2,HECLA MINING CO/DE/,edgar_c_fe4d4a2020b2,new,0.8229059829059829,edgar,
+edgar_c_816c2996346d,DraftKings Inc.,c:162946,exact,1.0,edgar,
+edgar_c_66d543b347ff,"Nutanix, Inc.",c:74084,exact,1.0,edgar,
+edgar_c_a798417784d3,"Axsome Therapeutics, Inc.",c:229237,exact,1.0,edgar,
+edgar_c_f6d4411d5894,"ASSURANT, INC.",c:73731,exact,1.0,edgar,
+edgar_c_c719583c2bd3,VICOR CORP,c:178342,exact,1.0,edgar,
+edgar_c_b7261d55501f,"DigitalOcean Holdings, Inc.",edgar_c_b7261d55501f,new,0.9142857142857143,edgar,
+edgar_c_0760f5da4f24,Equinox Gold Corp.,edgar_c_0760f5da4f24,new,0.9166666666666667,edgar,
+edgar_c_ad9bbc4bdb78,AECOM,c:239141,exact,1.0,edgar,
+edgar_c_bb021c82155e,Gildan Activewear Inc.,edgar_c_bb021c82155e,new,0.8593761140819965,edgar,
+edgar_c_61251b9cec1a,"ARROWHEAD PHARMACEUTICALS, INC.",edgar_c_61251b9cec1a,new,0.8873015873015874,edgar,
+edgar_c_967c4fc4b2d2,"ZILLOW GROUP, INC.",edgar_c_967c4fc4b2d2,new,0.9,edgar,
+edgar_c_1dfe40da380c,"Figma, Inc.",c:232287,exact,1.0,edgar,
+edgar_c_e760341cbe09,"HOULIHAN LOKEY, INC.",f:5955,exact,1.0,edgar,
+edgar_c_b3b48d3daa4e,"Globalstar, Inc.",c:13107,exact,1.0,edgar,
+edgar_c_51718cfebfcf,FORMFACTOR INC,c:40897,exact,1.0,edgar,
+edgar_c_8cd5d79b3ea6,"CAVA GROUP, INC.",edgar_c_8cd5d79b3ea6,new,0.9066666666666666,edgar,
+edgar_c_747a123a2667,"BrightSpring Health Services, Inc.",edgar_c_747a123a2667,new,0.8736006683375105,edgar,
+edgar_c_32221c0e0813,J M SMUCKER Co,edgar_c_32221c0e0813,new,0.8672727272727273,edgar,
+edgar_c_8686cd15ee21,"Texas Roadhouse, Inc.",c:260140,exact,1.0,edgar,
+edgar_c_4cf10a5e5072,Maplebear Inc.,c:45021,fuzzy_high,0.9222,edgar,mapbar
+edgar_c_e7ea1d933744,Applied Digital Corp.,c:226500,fuzzy_high,0.9364,edgar,applied digital access
+edgar_c_7d0557fa26f1,"Tempus AI, Inc.",c:187623,fuzzy_high,0.9306,edgar,tempo ai
+edgar_c_8e3cdc70395c,CHART INDUSTRIES INC,edgar_c_8e3cdc70395c,new,0.8754201680672269,edgar,
+edgar_c_8d527a13bb80,"REVVITY, INC.",c:72797,fuzzy_high,0.9333,edgar,revit
+edgar_c_3c32b6e0cd99,FIRST MAJESTIC SILVER CORP,edgar_c_3c32b6e0cd99,new,0.8906204906204906,edgar,
+edgar_c_7815ac6679ae,"DOCUSIGN, INC.",r:599,exact,1.0,edgar,
+edgar_c_66a881e8ba8a,"Praxis Precision Medicines, Inc.",edgar_c_66a881e8ba8a,new,0.8538461538461538,edgar,
+edgar_c_98536256540d,"PROCORE TECHNOLOGIES, INC.",c:46248,exact,1.0,edgar,
+edgar_c_46df28a5952b,AeroVironment Inc,c:73629,exact,1.0,edgar,
+edgar_c_0b2d13dbe192,"Lineage, Inc.",c:55473,fuzzy_high,0.975,edgar,lineagen
+edgar_c_2314e39899aa,"Joby Aviation, Inc.",edgar_c_2314e39899aa,new,0.8615384615384615,edgar,
+edgar_c_ad7f1ce77b60,VIASAT INC,c:33731,exact,1.0,edgar,
+edgar_c_0906148f121b,"Celsius Holdings, Inc.",edgar_c_0906148f121b,new,0.8875,edgar,
+edgar_c_70f4be3b67d6,Freedom Holding Corp.,edgar_c_70f4be3b67d6,new,0.8977156177156177,edgar,
+edgar_c_ef9d90d0f301,CAMTEK LTD,c:260004,exact,1.0,edgar,
+edgar_c_170f75421439,"Chime Financial, Inc.",edgar_c_170f75421439,new,0.8933333333333334,edgar,
+edgar_c_c71da80f30b7,"Krystal Biotech, Inc.",edgar_c_c71da80f30b7,new,0.867843137254902,edgar,
+edgar_c_7dcdd39a372b,"Vaxcyte, Inc.",c:285215,fuzzy_high,0.9238,edgar,valcyte
+edgar_c_0f8e38f32e20,"Nuvalent, Inc.",edgar_c_0f8e38f32e20,new,0.8833333333333334,edgar,
+edgar_c_526c290f5391,JANUS HENDERSON GROUP PLC,edgar_c_526c290f5391,new,0.8864468864468865,edgar,
+edgar_c_b8d01e47c0bf,NATIONAL FUEL GAS CO,c:237187,exact,1.0,edgar,
+edgar_c_78468d5dca90,Norwegian Cruise Line Holdings Ltd.,c:215743,fuzzy_high,0.94,edgar,norwegian cruise line
+edgar_c_629e18cf9a19,"RYAN SPECIALTY HOLDINGS, INC.",edgar_c_629e18cf9a19,new,0.8789855072463768,edgar,
+edgar_c_35777aca80ed,D-Wave Quantum Inc.,edgar_c_35777aca80ed,new,0.8571428571428571,edgar,
+edgar_c_2d435a6ac4a0,"ImmunityBio, Inc.",edgar_c_2d435a6ac4a0,new,0.8805194805194805,edgar,
+edgar_c_8ab3b066ca00,"AAON, INC.",edgar_c_8ab3b066ca00,new,0.9111111111111111,edgar,
+edgar_c_ff9ff66aec2c,URANIUM ENERGY CORP,c:243703,exact,1.0,edgar,
+edgar_c_cbfc46558716,"Clearwater Analytics Holdings, Inc.",c:43485,fuzzy_high,0.9379,edgar,clearwater analytics
+edgar_c_78dd0a079b33,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",f:2503,exact,1.0,edgar,
+edgar_c_dcb9529bb870,"Riot Platforms, Inc.",edgar_c_dcb9529bb870,new,0.8742857142857143,edgar,
+edgar_c_068581380513,"Construction Partners, Inc.",c:277330,fuzzy_high,0.9317,edgar,construction clean partners
+edgar_c_b01bced64981,Celcuity Inc.,c:179440,fuzzy_high,0.9333,edgar,cecity
+edgar_c_59ffb85d508b,Terreno Realty Corp,edgar_c_59ffb85d508b,new,0.9130952380952382,edgar,
+edgar_c_02ed23e529c7,Aura Minerals Inc.,edgar_c_02ed23e529c7,new,0.8637362637362637,edgar,
+edgar_c_163609282de5,"Klaviyo, Inc.",c:187183,exact,1.0,edgar,
+edgar_c_49f652647706,OceanaGold Corp,edgar_c_49f652647706,new,0.9,edgar,
+edgar_c_3ee080283b6f,REPLIGEN CORP,c:64174,exact,1.0,edgar,
+edgar_c_3cb094b01bd3,"Core Scientific, Inc./tx",edgar_c_3cb094b01bd3,new,0.8638888888888889,edgar,
+edgar_c_8639be6012b0,"Mirum Pharmaceuticals, Inc.",edgar_c_8639be6012b0,new,0.903059163059163,edgar,
+edgar_c_9e8dbb4edd3e,LITHIA MOTORS INC,c:166758,fuzzy_high,0.9462,edgar,lit motors
+edgar_c_846bb54a12ec,"Protagonist Therapeutics, Inc",c:46506,exact,1.0,edgar,
+edgar_c_d735323f4552,"Cogent Biosciences, Inc.",edgar_c_d735323f4552,new,0.8666666666666666,edgar,
+edgar_c_b7996bef1b2e,"GLACIER BANCORP, INC.",edgar_c_b7996bef1b2e,new,0.9151515151515152,edgar,
+edgar_c_d04d9fce35c1,PJT Partners Inc.,edgar_c_d04d9fce35c1,new,0.8088888888888889,edgar,
+edgar_c_06366cee022a,APPFOLIO INC,c:5222,exact,1.0,edgar,
+edgar_c_1b0b663eba19,California Resources Corp,c:264948,fuzzy_high,0.9288,edgar,california human resources
+edgar_c_f22fee17e9d9,"Terns Pharmaceuticals, Inc.",edgar_c_f22fee17e9d9,new,0.8941798941798941,edgar,
+edgar_c_b934bfd7b8a3,National Storage Affiliates Trust,edgar_c_b934bfd7b8a3,new,0.8816962730755834,edgar,
+edgar_c_d691dc348c1f,"ServiceTitan, Inc.",c:164009,exact,1.0,edgar,
+edgar_c_c40ce2f8803c,"Kodiak Gas Services, Inc.",edgar_c_c40ce2f8803c,new,0.8743525480367585,edgar,
+edgar_c_28fd9c9ce48e,"Spyre Therapeutics, Inc.",edgar_c_28fd9c9ce48e,new,0.9074074074074073,edgar,
+edgar_c_eae827c3e15e,OPEN TEXT CORP,c:14008,fuzzy_high,0.9778,edgar,opentext
+edgar_c_bef0121ebf13,"Rigetti Computing, Inc.",edgar_c_bef0121ebf13,new,0.832843137254902,edgar,
+edgar_c_86fcb12241c0,"RHYTHM PHARMACEUTICALS, INC.",c:43907,exact,1.0,edgar,
+edgar_c_63d387c9bced,Blue Owl Capital Corp,f:6852,exact,1.0,edgar,
+edgar_c_fb4749274b39,"EPAM Systems, Inc.",c:22632,exact,1.0,edgar,
+edgar_c_fb985561af03,Blackstone Secured Lending Fund,edgar_c_fb985561af03,new,0.8572043010752688,edgar,
+edgar_c_c3a51147dfe4,Ameris Bancorp,c:223141,fuzzy_high,0.9286,edgar,americorp
+edgar_c_685b3cc584b9,B2GOLD CORP,edgar_c_685b3cc584b9,new,0.8444444444444443,edgar,
+edgar_c_346b83a935fb,"TG THERAPEUTICS, INC.",c:260041,exact,1.0,edgar,
+edgar_c_7b26900c3b33,"UiPath, Inc.",edgar_c_7b26900c3b33,new,0.8,edgar,
+edgar_c_c550af46ef97,"Immunovant, Inc.",edgar_c_c550af46ef97,new,0.9184615384615384,edgar,
+edgar_c_1bc26eda467f,ADT Inc.,c:33003,fuzzy_high,0.9417,edgar,adtz
+edgar_c_2a1faed6e492,Klarna Group plc,edgar_c_2a1faed6e492,new,0.9,edgar,
+edgar_c_3d0d544c3dad,"Oscar Health, Inc.",edgar_c_3d0d544c3dad,new,0.9005128205128206,edgar,
+edgar_c_b456b6d21635,Scholar Rock Holding Corp,edgar_c_b456b6d21635,new,0.8818181818181818,edgar,
+edgar_c_574e6dd6a153,PIPER SANDLER COMPANIES,edgar_c_574e6dd6a153,new,0.8668896321070234,edgar,
+edgar_c_85a8626c4bc6,BRUKER CORP,c:59377,exact,1.0,edgar,
+edgar_c_3d4f88839a24,Almonty Industries Inc.,edgar_c_3d4f88839a24,new,0.8492063492063493,edgar,
+edgar_c_2096de694279,Acushnet Holdings Corp.,edgar_c_2096de694279,new,0.9182679738562092,edgar,
+edgar_c_1d1713da7e54,"Avantor, Inc.",f:7333,fuzzy_high,0.9429,edgar,avant
+edgar_c_8f85d17b4ec3,OUTFRONT Media Inc.,edgar_c_8f85d17b4ec3,new,0.9191697191697191,edgar,
+edgar_c_c122ae466aff,"PTC THERAPEUTICS, INC.",c:36788,exact,1.0,edgar,
+edgar_c_399e8670469b,ENERGY FUELS INC,c:39780,fuzzy_high,0.9333,edgar,energy focus
+edgar_c_ad52498b622d,Firefly Aerospace Inc.,edgar_c_ad52498b622d,new,0.8865546218487395,edgar,
+edgar_c_553298abe574,Blue Owl Technology Finance Corp.,edgar_c_553298abe574,new,0.8714285714285714,edgar,
+edgar_c_9a63ae92948c,"SentinelOne, Inc.",c:230768,fuzzy_high,0.9455,edgar,sentinel
+edgar_c_0c98f25f5e56,"Compass, Inc.",r:28685,exact,1.0,edgar,
+edgar_c_3bfed172a891,Colliers International Group Inc.,c:220543,fuzzy_high,0.9571,edgar,colliers international
+edgar_c_3a0e900f776e,Elastic N.V.,c:191730,fuzzy_high,0.94,edgar,elastic
+edgar_c_3e3650749096,CARMAX INC,c:239591,exact,1.0,edgar,
+edgar_c_8d0fa89dd95e,"Floor & Decor Holdings, Inc.",edgar_c_8d0fa89dd95e,new,0.8833333333333334,edgar,
+edgar_c_9c5a950b2c37,LandBridge Co LLC,edgar_c_9c5a950b2c37,new,0.8823905723905724,edgar,
+edgar_c_c4e83e987a1d,CRISPR Therapeutics AG,edgar_c_c4e83e987a1d,new,0.8526315789473684,edgar,
+edgar_c_167927979543,"Duolingo, Inc.",c:159071,exact,1.0,edgar,
+edgar_c_49031e80b5ae,"Boot Barn Holdings, Inc.",edgar_c_49031e80b5ae,new,0.8734864672364673,edgar,
+edgar_c_b1f0992ad2a6,Alliance Laundry Holdings Inc.,edgar_c_b1f0992ad2a6,new,0.8698039215686275,edgar,
+edgar_c_f2d50483cf0f,"Remitly Global, Inc.",edgar_c_f2d50483cf0f,new,0.9,edgar,
+edgar_c_5e127c740996,Legend Biotech Corp,edgar_c_5e127c740996,new,0.8857142857142858,edgar,
+edgar_c_c0ac3d6a9189,"Victory Capital Holdings, Inc.",edgar_c_c0ac3d6a9189,new,0.8958333333333333,edgar,
+edgar_c_3150d8185a67,EquipmentShare.com Inc,edgar_c_3150d8185a67,new,0.9154411764705882,edgar,
+edgar_c_38401840c342,"Dianthus Therapeutics, Inc. /DE/",edgar_c_38401840c342,new,0.85,edgar,
+edgar_c_01d722ce959c,RADIAN GROUP INC,c:173199,fuzzy_high,0.9526,edgar,radical group
+edgar_c_cb68cc7b6378,Ondas Inc.,c:23425,fuzzy_high,0.92,edgar,ondax
+edgar_c_04b63011b7c5,Garrett Motion Inc.,p:8952,fuzzy_high,0.9714,edgar,garrett moon
+edgar_c_f535aa136929,"Doximity, Inc.",c:71305,exact,1.0,edgar,
+edgar_c_f3377bc5defe,PATTERSON UTI ENERGY INC,edgar_c_f3377bc5defe,new,0.8762500000000001,edgar,
+edgar_c_d994342efe37,"CSW INDUSTRIALS, INC.",edgar_c_d994342efe37,new,0.8459259259259259,edgar,
+edgar_c_2dd0f60cb313,"Navan, Inc.",c:29874,fuzzy_high,0.9556,edgar,narvan
+edgar_c_db697c8dda4e,"LAUREATE EDUCATION, INC.",c:207078,exact,1.0,edgar,
+edgar_c_a2fcf9ca58ae,"MARA Holdings, Inc.",f:10878,fuzzy_high,0.9368,edgar,mas holdings
+edgar_c_159bcb2dbfef,"MIAMI INTERNATIONAL HOLDINGS, INC.",edgar_c_159bcb2dbfef,new,0.9089233954451347,edgar,
+edgar_c_b6e7978fdef7,Orla Mining Ltd.,edgar_c_b6e7978fdef7,new,0.8921212121212122,edgar,
+edgar_c_ebd689ce4503,"Kiniksa Pharmaceuticals International, plc",edgar_c_ebd689ce4503,new,0.827027027027027,edgar,
+edgar_c_18d32900ed92,"Shift4 Payments, Inc.",edgar_c_18d32900ed92,new,0.9147619047619048,edgar,
+edgar_c_b35ad372b245,"Crinetics Pharmaceuticals, Inc.",edgar_c_b35ad372b245,new,0.8783131313131314,edgar,
+edgar_c_5ae480e1ca92,"Veradermics, Inc",edgar_c_5ae480e1ca92,new,0.890909090909091,edgar,
+edgar_c_4e2a8445df55,"Fastly, Inc.",c:81775,exact,1.0,edgar,
+edgar_c_030759d4b3af,"ServisFirst Bancshares, Inc.",f:9513,fuzzy_high,0.9239,edgar,servisfirst bank
+edgar_c_7104742a7101,MDA Space Ltd.,edgar_c_7104742a7101,new,0.8444444444444443,edgar,
+edgar_c_e18368f19988,"Lemonade, Inc.",c:4614,exact,1.0,edgar,
+edgar_c_699a1c90be72,"International Seaways, Inc.",c:200921,fuzzy_high,0.9432,edgar,international speedway
+edgar_c_6ce666d4438a,Gitlab Inc.,c:195865,fuzzy_high,0.9619,edgar,giftlab
+edgar_c_00c276d2521c,GRIFFON CORP,edgar_c_00c276d2521c,new,0.9095238095238095,edgar,
+edgar_c_b409661f36af,"Helmerich & Payne, Inc.",edgar_c_b409661f36af,new,0.87,edgar,
+edgar_c_324e95e4adf6,"Champion Homes, Inc.",c:44475,fuzzy_high,0.9262,edgar,champion theme
+edgar_c_0f8ada24010d,"SOUNDHOUND AI, INC.",c:65825,fuzzy_high,0.9538,edgar,soundhound
+edgar_c_eec37c28fa54,"BETA Technologies, Inc.",c:194658,exact,1.0,edgar,
+edgar_c_716d49fb608e,Waystar Holding Corp.,edgar_c_716d49fb608e,new,0.9047222222222222,edgar,
+edgar_c_6b9c3433c115,"Oruka Therapeutics, Inc.",edgar_c_6b9c3433c115,new,0.8907407407407407,edgar,
+edgar_c_61f9991e505f,"INDEPENDENCE REALTY TRUST, INC.",edgar_c_61f9991e505f,new,0.8984114832535885,edgar,
+edgar_c_e039b58343eb,UNITED COMMUNITY BANKS INC,edgar_c_e039b58343eb,new,0.9127807486631015,edgar,
+edgar_c_f802d236d873,Montage Gold Corp.,c:208454,fuzzy_high,0.9205,edgar,montage group
+edgar_c_a143517505ef,"BILL Holdings, Inc.",p:25509,fuzzy_high,0.9846,edgar,bill holding
+edgar_c_4f3e412ea581,"iRhythm Holdings, Inc.",edgar_c_4f3e412ea581,new,0.9041666666666667,edgar,
+edgar_c_7242787660bc,"NLIGHT, INC.",c:21789,exact,1.0,edgar,
+edgar_c_481618e5e12e,NGEx Minerals Ltd.,edgar_c_481618e5e12e,new,0.8761538461538462,edgar,
+edgar_c_14b7b3947d48,"Broadstone Net Lease, Inc.",edgar_c_14b7b3947d48,new,0.8678947368421053,edgar,
+edgar_c_51ab1f8f9d02,Travel & Leisure Co.,c:280065,exact,1.0,edgar,
+edgar_c_dc93b9e1fe9f,THOR INDUSTRIES INC,c:256167,fuzzy_high,0.923,edgar,thermal industries
+edgar_c_5762818e9b6c,"Hinge Health, Inc.",c:55633,fuzzy_high,0.9313,edgar,hire health
+edgar_c_d28d3b758a76,"Vita Coco Company, Inc.",c:196653,exact,1.0,edgar,
+edgar_c_075aed45d48d,ACADIA PHARMACEUTICALS INC,c:65949,exact,1.0,edgar,
+edgar_c_bd7d5ae0d414,BANCFIRST CORP /OK/,edgar_c_bd7d5ae0d414,new,0.8516666666666668,edgar,
+edgar_c_e1290be5c0fe,"Life360, Inc.",r:33572,exact,1.0,edgar,
+edgar_c_62804c6256d4,"Viking Therapeutics, Inc.",edgar_c_62804c6256d4,new,0.8810776942355889,edgar,
+edgar_c_f59cfa287125,Howard Hughes Holdings Inc.,edgar_c_f59cfa287125,new,0.890530303030303,edgar,
+edgar_c_d8255d0506c7,Navitas Semiconductor Corp,edgar_c_d8255d0506c7,new,0.8793277310924371,edgar,
+edgar_c_9288ab72f050,"e.l.f. Beauty, Inc.",edgar_c_9288ab72f050,new,0.8476923076923077,edgar,
+edgar_c_56d75ca9493b,"GOLUB CAPITAL BDC, Inc.",f:11309,fuzzy_high,0.9529,edgar,golub capital
+edgar_c_323d2e2d21ba,Skeena Resources Ltd,edgar_c_323d2e2d21ba,new,0.8541666666666666,edgar,
+edgar_c_53eab47866c3,Allied Gold Corp,edgar_c_53eab47866c3,new,0.9068181818181819,edgar,
+edgar_c_9b3b8210cdca,BKV Corp,edgar_c_9b3b8210cdca,new,0.8222222222222222,edgar,
+edgar_c_0826f88621a2,BOX INC,r:215,exact,1.0,edgar,
+edgar_c_e27dead8fe15,"Hagerty, Inc.",edgar_c_e27dead8fe15,new,0.8819047619047619,edgar,
+edgar_c_711d3366c3bc,SCOTTS MIRACLE-GRO CO,c:25222,exact,1.0,edgar,
+edgar_c_23fa968662d2,Liquidia Corp,c:73082,fuzzy_high,0.95,edgar,liquidit
+edgar_c_879b37c206fb,AMERICOLD REALTY TRUST,edgar_c_879b37c206fb,new,0.8818181818181818,edgar,
+edgar_c_e69e725dcd0f,DENISON MINES CORP.,edgar_c_e69e725dcd0f,new,0.893006993006993,edgar,
+edgar_c_bf813faa0791,Neptune Insurance Holdings Inc.,edgar_c_bf813faa0791,new,0.8684615384615385,edgar,
+edgar_c_7ffa52bd9c82,"Edgewise Therapeutics, Inc.",edgar_c_7ffa52bd9c82,new,0.8971988795518208,edgar,
+edgar_c_a2d4c9e275eb,"ACM Research, Inc.",edgar_c_a2d4c9e275eb,new,0.8916666666666667,edgar,
+edgar_c_49870b39062e,"BREAD FINANCIAL HOLDINGS, INC.",edgar_c_49870b39062e,new,0.8755797101449275,edgar,
+edgar_c_2a153183e256,SPROTT INC.,c:161932,fuzzy_high,0.95,edgar,sprouttr
+edgar_c_5aba1fdab213,PERPETUA RESOURCES CORP.,edgar_c_5aba1fdab213,new,0.8793650793650793,edgar,
+edgar_c_30643cc99723,"Option Care Health, Inc.",edgar_c_30643cc99723,new,0.88,edgar,
+edgar_c_458768bc64c0,HYCROFT MINING HOLDING CORP,edgar_c_458768bc64c0,new,0.7883116883116883,edgar,
+edgar_c_77644fa355cd,"CLEANSPARK, INC.",edgar_c_77644fa355cd,new,0.9002777777777778,edgar,
+edgar_c_406d838bfbc4,"Tango Therapeutics, Inc.",c:238643,fuzzy_high,0.9547,edgar,talon therapeutics
+edgar_c_659db6bb4c26,WESBANCO INC,edgar_c_659db6bb4c26,new,0.8866666666666667,edgar,
+edgar_c_d39a7e326994,Cushman & Wakefield Ltd.,c:73478,exact,1.0,edgar,
+edgar_c_dda887b29e81,PEABODY ENERGY CORP,c:44468,exact,1.0,edgar,
+edgar_c_d9e6e5a1744f,VARONIS SYSTEMS INC,c:25716,exact,1.0,edgar,
+edgar_c_ef8d1c0d2a9a,WORKIVA INC,edgar_c_ef8d1c0d2a9a,new,0.9114285714285714,edgar,
+edgar_c_4c53ea6cec2b,ALUMIS INC.,edgar_c_4c53ea6cec2b,new,0.9111111111111112,edgar,
+edgar_c_8b018f3094de,"Chefs' Warehouse, Inc.",edgar_c_8b018f3094de,new,0.8666666666666667,edgar,
+edgar_c_a55b26cbdaa7,"Erasca, Inc.",edgar_c_a55b26cbdaa7,new,0.8916666666666667,edgar,
+edgar_c_8649eb9de0fe,FIRST FINANCIAL BANCORP /OH/,f:14720,fuzzy_high,0.9362,edgar,first financial bank
+edgar_c_5597383ffa47,CCC Intelligent Solutions Holdings Inc.,c:264690,fuzzy_high,0.9216,edgar,cc intelligent solutions
+edgar_c_e520f0607d91,PARK NATIONAL CORP /OH/,edgar_c_e520f0607d91,new,0.875,edgar,
+edgar_c_ed1a7470fe62,Beam Therapeutics Inc.,edgar_c_ed1a7470fe62,new,0.9000565610859729,edgar,
+edgar_c_1bdad68bbc77,NICOLET BANKSHARES INC,edgar_c_1bdad68bbc77,new,0.9166666666666666,edgar,
+edgar_c_33eafff69360,Seadrill Ltd,edgar_c_33eafff69360,new,0.8859848484848485,edgar,
+edgar_c_85c80a3eb026,"Upstart Holdings, Inc.",edgar_c_85c80a3eb026,new,0.8964285714285715,edgar,
+edgar_c_95971a1cc49e,Structure Therapeutics Inc.,edgar_c_95971a1cc49e,new,0.8818181818181818,edgar,
+edgar_c_741cf4bab099,eToro Group Ltd.,edgar_c_741cf4bab099,new,0.890909090909091,edgar,
+edgar_c_eb677c814b98,"Privia Health Group, Inc.",c:84177,fuzzy_high,0.9368,edgar,privia health
+edgar_c_f7d8a8954093,"DigitalBridge Group, Inc.",edgar_c_f7d8a8954093,new,0.9055921052631579,edgar,
+edgar_c_ffadf11d73f5,SEABRIDGE GOLD INC,c:244074,fuzzy_high,0.9286,edgar,seabridge
+edgar_c_975c5138f3a2,"Black Stone Minerals, L.P.",edgar_c_975c5138f3a2,new,0.8701581027667984,edgar,
+edgar_c_d8d5493f4adb,"DHT Holdings, Inc.",f:8681,fuzzy_high,0.9313,edgar,dhg holding
+edgar_c_5b7739020ac0,Sunrun Inc.,c:23972,exact,1.0,edgar,
+edgar_c_c41f5994fed7,"Hamilton Insurance Group, Ltd.",edgar_c_c41f5994fed7,new,0.8722222222222222,edgar,
+edgar_c_7af5b8d20f2c,Denali Therapeutics Inc.,edgar_c_7af5b8d20f2c,new,0.8870813397129187,edgar,
+edgar_c_a7ec337c7aa4,"Arcutis Biotherapeutics, Inc.",edgar_c_a7ec337c7aa4,new,0.8696542079837275,edgar,
+edgar_c_649cbd382767,NEKTAR THERAPEUTICS,c:25740,exact,1.0,edgar,
+edgar_c_c08b5bc92a90,"Dyne Therapeutics, Inc.",edgar_c_c08b5bc92a90,new,0.8282448201952846,edgar,
+edgar_c_794080c1b0c4,Sezzle Inc.,edgar_c_794080c1b0c4,new,0.8755555555555556,edgar,
+edgar_c_e9e6728b6585,TMC the metals Co Inc.,edgar_c_e9e6728b6585,new,0.8263492063492064,edgar,
+edgar_c_bb29d76dd88d,Integer Holdings Corp,c:218516,fuzzy_high,0.9506,edgar,intermex holdings
+edgar_c_162521caadcf,"BANC OF CALIFORNIA, INC.",c:284101,exact,1.0,edgar,
+edgar_c_c3a68f02d070,"Amprius Technologies, Inc.",edgar_c_c3a68f02d070,new,0.9043137254901961,edgar,
+edgar_c_f9de94cdd8e5,"NMI Holdings, Inc.",edgar_c_f9de94cdd8e5,new,0.825,edgar,
+edgar_c_1a5707fa4cd1,FORTUNA MINING CORP.,c:217892,fuzzy_high,0.9405,edgar,fortuna vini
+edgar_c_f9c1c2606ad7,CECO ENVIRONMENTAL CORP,edgar_c_f9c1c2606ad7,new,0.8356902356902357,edgar,
+edgar_c_61e3f9f9bd51,"10x Genomics, Inc.",edgar_c_61e3f9f9bd51,new,0.8516666666666668,edgar,
+edgar_c_8599fd617dff,"Green Brick Partners, Inc.",c:104853,fuzzy_high,0.9242,edgar,green brick apps
+edgar_c_e7af79d0456f,"Xometry, Inc.",edgar_c_e7af79d0456f,new,0.8323809523809523,edgar,
+edgar_c_b109426e1ad2,LIGAND PHARMACEUTICALS INC,c:31441,exact,1.0,edgar,
+edgar_c_e91bec5e66ac,FB Financial Corp,edgar_c_e91bec5e66ac,new,0.8050505050505051,edgar,
+edgar_c_e186bf4c9fd7,"EURONET WORLDWIDE, INC.",c:56681,exact,1.0,edgar,
+edgar_c_5000c0730c9e,"Braze, Inc.",edgar_c_5000c0730c9e,new,0.9066666666666667,edgar,
+edgar_c_4dd98662c132,SOLENO THERAPEUTICS INC,edgar_c_4dd98662c132,new,0.9028379772961816,edgar,
+edgar_c_5eebc18ea863,Pattern Group Inc.,edgar_c_5eebc18ea863,new,0.9146153846153846,edgar,
+edgar_c_d1ba95de6c00,TALOS ENERGY INC.,edgar_c_d1ba95de6c00,new,0.8872222222222222,edgar,
+edgar_c_b3c808612e5c,Warby Parker Inc.,c:66124,exact,1.0,edgar,
+edgar_c_ce46b765283d,"Andersons, Inc.",p:151589,fuzzy_high,0.95,edgar,anders jones
+edgar_c_f8737eeeea8c,ENDEAVOUR SILVER CORP,edgar_c_f8737eeeea8c,new,0.9125,edgar,
+edgar_c_9144c7be6835,SILVERCORP METALS INC,edgar_c_9144c7be6835,new,0.9176470588235295,edgar,
+edgar_c_25fcdaf8e0b5,WAFD INC,edgar_c_25fcdaf8e0b5,new,0.8833333333333334,edgar,
+edgar_c_40fe284a3a3f,"VERACYTE, INC.",c:49706,exact,1.0,edgar,
+edgar_c_613d8f99d359,"Infleqtion, Inc.",c:55642,fuzzy_high,0.96,edgar,inflection
+edgar_c_259f7e401487,"StubHub Holdings, Inc.",edgar_c_259f7e401487,new,0.8875,edgar,
+edgar_c_8ba53763800f,Aecon Group Inc.,edgar_c_8ba53763800f,new,0.8383838383838385,edgar,
+edgar_c_9667c6b17a77,Immunome Inc.,c:228711,exact,1.0,edgar,
+edgar_c_a8e72a43f565,Kodiak Sciences Inc.,edgar_c_a8e72a43f565,new,0.8717139001349528,edgar,
+edgar_c_9493400a3e1d,HAWAIIAN ELECTRIC INDUSTRIES INC,edgar_c_9493400a3e1d,new,0.8775210084033613,edgar,
+edgar_c_991a1da173db,"Celldex Therapeutics, Inc.",c:275976,exact,1.0,edgar,
+edgar_c_cda8761c27ca,"Curaleaf Holdings, Inc.",edgar_c_cda8761c27ca,new,0.8539969834087482,edgar,
+edgar_c_4343a21ce9bb,GABELLI DIVIDEND & INCOME TRUST,edgar_c_4343a21ce9bb,new,0.8443726053639846,edgar,
+edgar_c_cf8e5ce71394,"Vera Therapeutics, Inc.",edgar_c_cf8e5ce71394,new,0.8986274509803922,edgar,
+edgar_c_f00cec9d80ec,Trump Media & Technology Group Corp.,edgar_c_f00cec9d80ec,new,0.8571428571428571,edgar,
+edgar_c_78b84e5db7fc,"IDEAYA Biosciences, Inc.",edgar_c_78b84e5db7fc,new,0.8629292929292929,edgar,
+edgar_c_2a8c015dd273,"Enliven Therapeutics, Inc.",edgar_c_2a8c015dd273,new,0.8807843137254902,edgar,
+edgar_c_66edd2ee7d13,Sigma Lithium Corp,edgar_c_66edd2ee7d13,new,0.8769230769230769,edgar,
+edgar_c_ccc18bbc1ec8,Freshworks Inc.,c:19177,fuzzy_high,0.9538,edgar,freshnetworks
+edgar_c_d8ff97f056ad,"Relay Therapeutics, Inc.",c:271515,fuzzy_high,0.9283,edgar,renova therapeutics
+edgar_c_dc954e0ac8fe,TASEKO MINES LTD,edgar_c_dc954e0ac8fe,new,0.8577777777777779,edgar,
+edgar_c_e52d0c70f1a9,"Heartflow, Inc.",c:57370,exact,1.0,edgar,
+edgar_c_9c446feba966,"Bancorp, Inc.",edgar_c_9c446feba966,new,0.9166666666666667,edgar,
+edgar_c_e20ac88b20d0,NEXTNAV INC.,c:260737,exact,1.0,edgar,
+edgar_c_5a659b43df26,"Mineralys Therapeutics, Inc.",c:24278,fuzzy_high,0.9222,edgar,miragen therapeutics

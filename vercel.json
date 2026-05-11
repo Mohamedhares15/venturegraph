@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "venturegraph-web/package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "venturegraph-web/$1"
+    }
+  ]
+}

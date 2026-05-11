@@ -1,0 +1,6 @@
+horizon,alpha_col,pearson_r,p_value,n_obs,signal_dir,significant,dataset
+k=12,alpha_k12,-0.0074,0.9345,126,✓ Works (negative),—,expanded_monthly
+k=18,alpha_k18,-0.1161,0.1955,126,✓ Works (negative),—,expanded_monthly
+k=24,alpha_k24,-0.1893,0.0338,126,✓ Works (negative),✓✓ SIGNIFICANT,expanded_monthly
+k=36,alpha_k36,-0.2432,0.0061,126,✓ Works (negative),✓✓ SIGNIFICANT,expanded_monthly
+k=6,alpha_k6,0.0403,0.6542,126,✗ Counter (positive),—,expanded_monthly

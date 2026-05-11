@@ -1,0 +1,76 @@
+name: VentureGraph Live Engine
+
+on:
+  schedule:
+    # Loop 1: Ingest every 15 minutes (GitHub Actions minimum is 5 min)
+    - cron: "*/15 * * * *"
+    # Loop 2: Signal engine every 6 hours
+    - cron: "0 */6 * * *"
+    # Loop 3: Market benchmark daily at 21:30 UTC (after US close)
+    - cron: "30 21 * * *"
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      loop:
+        description: "Which loop to run"
+        required: false
+        default: "all"
+        type: choice
+        options: [ingest, signal, market, all]
+
+jobs:
+  ingest:
+    name: "Loop 1 · Ingest"
+    runs-on: ubuntu-latest
+    # Only run on the 15-min cron (first schedule entry)
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '*/15 * * * *'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run ingestion
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          COMPANIES_HOUSE_API_KEY: ${{ secrets.COMPANIES_HOUSE_API_KEY }}
+        run: python live/run_all.py --loop ingest
+
+  signal:
+    name: "Loop 2 · Signal Engine"
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 */6 * * *'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run signal engine
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python live/run_all.py --loop signal
+
+  market:
+    name: "Loop 3 · Market Benchmark"
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '30 21 * * *'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run market benchmark
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python live/run_all.py --loop market

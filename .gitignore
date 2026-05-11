@@ -1,0 +1,38 @@
+# Environment — NEVER commit these
+.env
+.env.local
+venturegraph-web/.env.local
+venturegraph-web/.env
+
+# Dependencies
+venturegraph-web/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Build outputs
+venturegraph-web/.next/
+venturegraph-web/out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+*.swp
+
+# Python artifacts
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Large data files (keep CSVs local, not in git)
+objects.csv
+investments.csv
+funding_rounds.csv
+data_augmented/combined_*.csv
