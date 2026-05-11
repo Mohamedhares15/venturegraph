@@ -2,8 +2,8 @@ name: VentureGraph Live Engine
 
 on:
   schedule:
-    # Loop 1: Ingest every 15 minutes (GitHub Actions minimum is 5 min)
-    - cron: "*/15 * * * *"
+    # Loop 1: Ingest every hour (fits GitHub free tier: 24×2min×31d = ~1,488 min/month)
+    - cron: "0 * * * *"
     # Loop 2: Signal engine every 6 hours
     - cron: "0 */6 * * *"
     # Loop 3: Market benchmark daily at 21:30 UTC (after US close)
@@ -23,7 +23,7 @@ jobs:
     name: "Loop 1 · Ingest"
     runs-on: ubuntu-latest
     # Only run on the 15-min cron (first schedule entry)
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '*/15 * * * *'
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 * * * *'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
