@@ -370,9 +370,39 @@ def run_signal_engine() -> dict[str, int]:
 
     if silences:
         counts["silences"] = insert("silence_events", silences)
-    if sms_scores:
-        counts["sms_scores"] = upsert("sms_scores_live", sms_scores,
+
+    # ── Volume-based fallback: always write today's sector SMS scores ─────────
+    # When RSS events lack investor names, we still compute sector silence scores
+    # from event-volume deviation vs historical baseline.
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    from collections import Counter
+    sector_counts = Counter(e.get("sector", "unknown") for e in live if isinstance(e, dict))
+    total_live    = max(sum(sector_counts.values()), 1)
+    volume_scores = []
+    for sector, hist in baseline.items():
+        hist_mean = float(hist.get("mean", 0.15))
+        hist_std  = float(hist.get("std",  0.12) or 0.12)
+        n_live    = sector_counts.get(sector, 0)
+        n_share   = n_live / total_live
+        sms_val   = max(0.0, round(hist_mean - n_share + 0.05, 4))
+        dev_sigma = round((sms_val - hist_mean) / hist_std, 2) if hist_std else 0
+        n_exp     = max(1, int(total_live * hist_mean))
+        volume_scores.append({
+            "sector":       sector,
+            "score_date":   today_str,
+            "sms_score":    sms_val,
+            "n_expected":   n_exp,
+            "n_silent":     max(0, n_exp - n_live),
+            "baseline_mean":round(hist_mean, 4),
+            "baseline_std": round(hist_std, 4),
+            "computed_at":  datetime.now(timezone.utc).isoformat(),
+        })
+
+    all_scores = sms_scores if sms_scores else volume_scores
+    if all_scores:
+        counts["sms_scores"] = upsert("sms_scores_live", all_scores,
                                       on_conflict="sector,score_date")
+
     if new_signals:
         counts["signals"] = insert("signals", new_signals)
 
