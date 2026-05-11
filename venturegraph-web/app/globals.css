@@ -1,0 +1,459 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   VENTUREGRAPH SOVEREIGN — DESIGN SYSTEM
+   Soul: sovereign-wealth-fund credibility · audit-grade · institutional gravitas
+   Palette: warm ivory paper · sovereign navy ink · rich gold accents
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@theme {
+  /* — Ink (text & primary navy) — */
+  --color-ink-900: #0b1f3a;
+  --color-ink-800: #142a4d;
+  --color-ink-700: #1e3a5f;
+  --color-ink-600: #2f4a72;
+  --color-ink-500: #4a5b78;
+  --color-ink-400: #6b7a93;
+  --color-ink-300: #94a3b8;
+  --color-ink-200: #cbd5e1;
+  --color-ink-100: #e3e8ef;
+  --color-ink-50:  #f1f4f9;
+
+  /* — Paper (backgrounds) — */
+  --color-paper-50:  #fbfaf6;
+  --color-paper-100: #f7f4ec;
+  --color-paper-200: #ffffff;
+  --color-paper-300: #faf6e8;
+
+  /* — Gold (sovereign accent) — */
+  --color-gold-900: #5d4509;
+  --color-gold-800: #6f5410;
+  --color-gold-700: #8a6a14;
+  --color-gold-600: #a07d1d;
+  --color-gold-500: #b48a26;
+  --color-gold-400: #c5a04d;
+  --color-gold-300: #d4b86c;
+  --color-gold-200: #e8d196;
+  --color-gold-100: #f4e7c0;
+  --color-gold-50:  #faf3df;
+
+  /* — Semantic — */
+  --color-ok-700:   #0e7a3f;
+  --color-ok-500:   #14a05b;
+  --color-ok-100:   #dcf2e3;
+  --color-ok-50:    #effaf3;
+
+  --color-warn-700: #a35a00;
+  --color-warn-500: #d97706;
+  --color-warn-100: #fdecd5;
+  --color-warn-50:  #fdf6ec;
+
+  --color-risk-700: #a82828;
+  --color-risk-500: #d04444;
+  --color-risk-100: #fbe6e6;
+  --color-risk-50:  #fdf2f2;
+
+  --color-info-700: #1a4f8b;
+  --color-info-500: #2873c4;
+  --color-info-100: #e3eef9;
+  --color-info-50:  #f1f7fc;
+
+  --color-violet-700: #5b2eb0;
+  --color-violet-500: #7c3aed;
+  --color-violet-100: #ede4fb;
+
+  /* — Typography — */
+  --font-sans:    var(--font-inter), 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif:   var(--font-cormorant), 'Cormorant Garamond', Georgia, serif;
+  --font-mono:    var(--font-jetbrains), 'JetBrains Mono', 'IBM Plex Mono', 'Courier New', monospace;
+
+  /* — Shadows — */
+  --shadow-xs: 0 1px 1px rgba(11, 31, 58, 0.03);
+  --shadow-sm: 0 1px 2px rgba(11, 31, 58, 0.05), 0 1px 1px rgba(11, 31, 58, 0.03);
+  --shadow-md: 0 2px 6px rgba(11, 31, 58, 0.06), 0 4px 12px rgba(11, 31, 58, 0.04);
+  --shadow-lg: 0 6px 18px rgba(11, 31, 58, 0.08), 0 12px 32px rgba(11, 31, 58, 0.06);
+  --shadow-xl: 0 12px 40px rgba(11, 31, 58, 0.12), 0 24px 60px rgba(11, 31, 58, 0.08);
+
+  /* — Radii — */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-2xl: 16px;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   GLOBAL RESETS & BASE
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+html, body {
+  background: var(--color-paper-50);
+  color: var(--color-ink-700);
+  font-family: var(--font-sans);
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11', 'ss01';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+
+::selection {
+  background: var(--color-gold-100);
+  color: var(--color-gold-900);
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--color-paper-100); }
+::-webkit-scrollbar-thumb {
+  background: var(--color-ink-200);
+  border-radius: 6px;
+  border: 2px solid var(--color-paper-100);
+}
+::-webkit-scrollbar-thumb:hover { background: var(--color-ink-300); }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   COMPONENT PRIMITIVES
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* — Sovereign label (small caps gold) — */
+.sov-label {
+  font-size: 0.7rem;
+  color: var(--color-gold-700);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-sans);
+}
+
+/* — Display title (the one that appears in section heroes) — */
+.sov-display {
+  font-family: var(--font-sans);
+  font-size: clamp(1.6rem, 2.4vw, 2.4rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--color-ink-900);
+  line-height: 1.1;
+}
+.sov-display-serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 500;
+  color: var(--color-gold-700);
+  letter-spacing: 0;
+}
+
+/* — Hash pill (cryptographic affordance) — */
+.sov-hash {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--color-ok-700);
+  background: var(--color-ok-100);
+  border: 1px solid #b9e0c5;
+  padding: 4px 10px;
+  border-radius: 4px;
+  word-break: break-all;
+  font-weight: 500;
+  line-height: 1.4;
+}
+.sov-hash::before {
+  content: '◆';
+  color: var(--color-ok-500);
+  font-size: 0.6rem;
+}
+.sov-hash--gold { color: var(--color-gold-700); background: var(--color-gold-50); border-color: var(--color-gold-300); }
+.sov-hash--gold::before { color: var(--color-gold-500); }
+.sov-hash--ink  { color: var(--color-ink-900); background: var(--color-ink-50); border-color: var(--color-ink-200); }
+.sov-hash--ink::before  { color: var(--color-ink-500); }
+
+/* — Sovereign tag pill — */
+.sov-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  background: var(--color-gold-100);
+  border: 1px solid var(--color-gold-300);
+  border-radius: 14px;
+  color: var(--color-gold-900);
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  font-family: var(--font-mono);
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+.sov-tag--ok { background: var(--color-ok-100); border-color: #b9e0c5; color: var(--color-ok-700); }
+.sov-tag--info { background: var(--color-info-100); border-color: #b8d3eb; color: var(--color-info-700); }
+.sov-tag--warn { background: var(--color-warn-100); border-color: #f4d4a3; color: var(--color-warn-700); }
+.sov-tag--ink { background: var(--color-ink-900); border-color: var(--color-ink-900); color: var(--color-paper-50); }
+
+/* — Card with gold rail — */
+.sov-card {
+  background: var(--color-paper-200);
+  border: 1px solid var(--color-ink-100);
+  border-left: 3px solid var(--color-gold-500);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem 1.6rem;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+.sov-card:hover { box-shadow: var(--shadow-md); }
+.sov-card--ok    { border-left-color: var(--color-ok-500); }
+.sov-card--info  { border-left-color: var(--color-info-500); }
+.sov-card--warn  { border-left-color: var(--color-warn-500); }
+.sov-card--risk  { border-left-color: var(--color-risk-500); }
+.sov-card--violet{ border-left-color: var(--color-violet-500); }
+.sov-card--flat  { box-shadow: none; }
+.sov-card--lift  { box-shadow: var(--shadow-md); }
+.sov-card--lift:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); }
+
+/* — Metric block — */
+.sov-metric-label {
+  font-size: 0.66rem;
+  color: var(--color-gold-700);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.sov-metric-value {
+  font-family: var(--font-mono);
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: var(--color-ink-900);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+.sov-metric-sub {
+  font-size: 0.78rem;
+  color: var(--color-ink-500);
+  margin-top: 4px;
+}
+.sov-metric-delta-up   { color: var(--color-ok-700); }
+.sov-metric-delta-down { color: var(--color-risk-700); }
+
+/* — Floor accent dot (sidebar) — */
+.sov-floor-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+.sov-floor-dot.f0 { background: var(--color-risk-500);   box-shadow: 0 0 0 2px rgba(208, 68, 68, 0.25); animation: pulse 2s cubic-bezier(0.4,0,0.6,1) infinite; }
+.sov-floor-dot.f1 { background: var(--color-ink-700);    box-shadow: 0 0 0 2px rgba(30, 58, 95, 0.15); }
+.sov-floor-dot.f2 { background: var(--color-info-500);   box-shadow: 0 0 0 2px rgba(40, 115, 196, 0.15); }
+.sov-floor-dot.f3 { background: var(--color-gold-500);   box-shadow: 0 0 0 2px rgba(180, 138, 38, 0.18); }
+.sov-floor-dot.f4 { background: var(--color-ok-500);     box-shadow: 0 0 0 2px rgba(20, 160, 91, 0.15); }
+.sov-floor-dot.f5 { background: var(--color-violet-500); box-shadow: 0 0 0 2px rgba(124, 58, 237, 0.15); }
+
+/* — Hero title underline (gold gradient) — */
+.sov-hero-rule {
+  height: 3px;
+  background: linear-gradient(90deg,
+    var(--color-gold-700) 0%,
+    var(--color-gold-500) 30%,
+    var(--color-gold-300) 65%,
+    transparent 100%);
+}
+
+/* — Section divider with label — */
+.sov-section-rule {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 2rem 0 1rem 0;
+}
+.sov-section-rule::before { content: ''; flex: 0 0 24px; height: 1px; background: var(--color-ink-200); }
+.sov-section-rule::after  { content: ''; flex: 1; height: 1px; background: var(--color-ink-100); }
+
+/* — Subtle paper grain on sidebar — */
+.sov-paper-grain {
+  background:
+    radial-gradient(at 25% 0%, rgba(180, 138, 38, 0.025), transparent 50%),
+    radial-gradient(at 100% 100%, rgba(11, 31, 58, 0.025), transparent 50%),
+    var(--color-paper-100);
+}
+
+/* — Form input look — */
+.sov-input {
+  width: 100%;
+  background: var(--color-paper-200);
+  border: 1px solid var(--color-ink-200);
+  border-radius: var(--radius-md);
+  padding: 0.55rem 0.85rem;
+  font-size: 0.92rem;
+  color: var(--color-ink-900);
+  font-family: var(--font-sans);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.sov-input:focus {
+  outline: none;
+  border-color: var(--color-gold-500);
+  box-shadow: 0 0 0 3px rgba(180, 138, 38, 0.12);
+}
+.sov-input::placeholder { color: var(--color-ink-300); }
+
+/* — Buttons — */
+.sov-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 0.55rem 1.1rem;
+  border-radius: var(--radius-md);
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+.sov-btn--primary {
+  background: var(--color-ink-900);
+  color: var(--color-paper-50);
+  border-color: var(--color-ink-900);
+}
+.sov-btn--primary:hover {
+  background: var(--color-ink-700);
+  border-color: var(--color-ink-700);
+  box-shadow: var(--shadow-md);
+}
+.sov-btn--gold {
+  background: var(--color-gold-700);
+  color: var(--color-paper-50);
+  border-color: var(--color-gold-700);
+}
+.sov-btn--gold:hover {
+  background: var(--color-gold-600);
+  border-color: var(--color-gold-600);
+  box-shadow: var(--shadow-md);
+}
+.sov-btn--ghost {
+  background: transparent;
+  color: var(--color-ink-700);
+  border-color: var(--color-ink-200);
+}
+.sov-btn--ghost:hover {
+  background: var(--color-paper-100);
+  border-color: var(--color-gold-300);
+  color: var(--color-ink-900);
+}
+
+/* — Tab strip — */
+.sov-tab {
+  padding: 0.5rem 1rem;
+  border-bottom: 2px solid transparent;
+  color: var(--color-ink-500);
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.sov-tab:hover { color: var(--color-ink-900); }
+.sov-tab--active {
+  color: var(--color-ink-900);
+  border-bottom-color: var(--color-gold-500);
+  font-weight: 600;
+}
+
+/* — Animated reveal — */
+@keyframes sov-fade-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.sov-fade-up {
+  animation: sov-fade-up 0.5s ease both;
+}
+.sov-fade-up-stagger > * {
+  opacity: 0;
+  animation: sov-fade-up 0.5s ease forwards;
+}
+.sov-fade-up-stagger > *:nth-child(1) { animation-delay: 0.05s; }
+.sov-fade-up-stagger > *:nth-child(2) { animation-delay: 0.10s; }
+.sov-fade-up-stagger > *:nth-child(3) { animation-delay: 0.15s; }
+.sov-fade-up-stagger > *:nth-child(4) { animation-delay: 0.20s; }
+.sov-fade-up-stagger > *:nth-child(5) { animation-delay: 0.25s; }
+.sov-fade-up-stagger > *:nth-child(6) { animation-delay: 0.30s; }
+
+/* — Audit watermark seal motif — */
+.sov-seal {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--color-gold-100), var(--color-gold-300));
+  border: 2px solid var(--color-gold-500);
+  color: var(--color-gold-900);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-align: center;
+  line-height: 1.1;
+  box-shadow: var(--shadow-sm), inset 0 0 0 4px rgba(255, 255, 255, 0.4);
+}
+.sov-seal::after {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 1px dashed var(--color-gold-500);
+  opacity: 0.4;
+}
+
+/* — Recharts theming overrides — */
+.recharts-cartesian-axis-tick text { fill: var(--color-ink-500); font-size: 11px; font-family: var(--font-mono); }
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line { stroke: var(--color-ink-100); }
+.recharts-tooltip-wrapper {
+  filter: drop-shadow(0 2px 8px rgba(11, 31, 58, 0.12));
+}
+.recharts-default-tooltip {
+  background: var(--color-paper-200) !important;
+  border: 1px solid var(--color-ink-200) !important;
+  border-left: 3px solid var(--color-gold-500) !important;
+  border-radius: var(--radius-md) !important;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+}
+.recharts-tooltip-label { color: var(--color-ink-900) !important; font-weight: 600; }
+
+/* — Subtle table — */
+.sov-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.85rem;
+}
+.sov-table thead th {
+  text-align: left;
+  padding: 0.6rem 0.9rem;
+  font-size: 0.66rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--color-gold-700);
+  background: var(--color-paper-100);
+  border-bottom: 1px solid var(--color-ink-200);
+  font-weight: 700;
+}
+.sov-table tbody td {
+  padding: 0.55rem 0.9rem;
+  border-bottom: 1px solid var(--color-ink-100);
+  color: var(--color-ink-700);
+  font-variant-numeric: tabular-nums;
+}
+.sov-table tbody tr:hover { background: var(--color-paper-50); }
+.sov-table tbody tr:last-child td { border-bottom: none; }
+.sov-table .num { font-family: var(--font-mono); text-align: right; }
