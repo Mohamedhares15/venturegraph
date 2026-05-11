@@ -1,14 +1,6 @@
 {
-  "builds": [
-    {
-      "src": "venturegraph-web/package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "venturegraph-web/$1"
-    }
-  ]
+  "buildCommand": "cd venturegraph-web && npm install && npm run build",
+  "outputDirectory": "venturegraph-web/.next",
+  "installCommand": "cd venturegraph-web && npm install",
+  "framework": "nextjs"
 }
