@@ -388,14 +388,15 @@ def run_signal_engine() -> dict[str, int]:
         dev_sigma = round((sms_val - hist_mean) / hist_std, 2) if hist_std else 0
         n_exp     = max(1, int(total_live * hist_mean))
         volume_scores.append({
-            "sector":       sector,
-            "score_date":   today_str,
-            "sms_score":    sms_val,
-            "n_expected":   n_exp,
-            "n_silent":     max(0, n_exp - n_live),
-            "baseline_mean":round(hist_mean, 4),
-            "baseline_std": round(hist_std, 4),
-            "computed_at":  datetime.now(timezone.utc).isoformat(),
+            "sector":          sector,
+            "score_date":      today_str,
+            "sms_score":       sms_val,
+            "n_expected":      n_exp,
+            "n_silent":        max(0, n_exp - n_live),
+            "baseline_mean":   round(hist_mean, 4),
+            "baseline_sigma":  round(hist_std, 4),
+            "deviation_sigma": dev_sigma,
+            "computed_at":     datetime.now(timezone.utc).isoformat(),
         })
 
     all_scores = sms_scores if sms_scores else volume_scores

@@ -35,4 +35,19 @@ build/
 objects.csv
 investments.csv
 funding_rounds.csv
+milestones.csv
+people.csv
+offices.csv
+relationships.csv
+degrees.csv
 data_augmented/combined_*.csv
+
+# Smoke-test HTML outputs
+_smoke_memo_*.html
+
+# One-time utility / scratch scripts
+fix_formatters*.py
+push_to_github.ps1
+
+# Course material PDFs
+Week*.pdf
