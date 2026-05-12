@@ -30,13 +30,14 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'workflow_dispatch' || github.event.schedule == '*/5 * * * *'
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
-      - name: Install dependencies
-        run: pip install -r requirements.txt --quiet
+          cache-dependency-path: requirements-live.txt
+      - name: Install live engine dependencies
+        run: pip install -r requirements-live.txt --quiet
       - name: Run ingestion
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -49,13 +50,14 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 */2 * * *'
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
-      - name: Install dependencies
-        run: pip install -r requirements.txt --quiet
+          cache-dependency-path: requirements-live.txt
+      - name: Install live engine dependencies
+        run: pip install -r requirements-live.txt --quiet
       - name: Run signal engine
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -70,13 +72,14 @@ jobs:
       github.event.schedule == '30 14 * * 1-5' ||
       github.event.schedule == '30 21 * * 1-5'
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
-      - name: Install dependencies
-        run: pip install -r requirements.txt --quiet
+          cache-dependency-path: requirements-live.txt
+      - name: Install live engine dependencies
+        run: pip install -r requirements-live.txt --quiet
       - name: Run market benchmark
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
