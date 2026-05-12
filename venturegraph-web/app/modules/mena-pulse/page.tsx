@@ -10,7 +10,8 @@ import { Section } from "@/components/ui/Section";
 import { StatusPill } from "@/components/ui/StatusPill";
 import { moduleBySlug } from "@/lib/modules";
 import { fmtInt, groupBy } from "@/lib/utils";
-import menaDataJson from "../../../public/data/mena_data.json";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 
 export const dynamic = "force-dynamic";
 export const metadata: Metadata = { title: "MENA Pulse · VentureGraph Sovereign" };
@@ -27,12 +28,17 @@ const GCC_COUNTRIES = new Set(["ARE", "SAU", "KWT", "BHR", "QAT", "OMN", "UAE", 
 export default async function MenaPulsePage() {
   const m = moduleBySlug("mena-pulse")!;
 
-  // Static JSON bundled at build time — works on Vercel serverless
   type Obj = Record<string, unknown>;
-  const menaObjects = menaDataJson.objects   as Obj[];
-  const invPanel    = menaDataJson.investments as Obj[];
-  const acq         = menaDataJson.acquisitions as Obj[];
-  const ipos        = menaDataJson.ipos      as Obj[];
+  type MenaJson = { objects: Obj[]; investments: Obj[]; acquisitions: Obj[]; ipos: Obj[] };
+  let menaData: MenaJson = { objects: [], investments: [], acquisitions: [], ipos: [] };
+  try {
+    const p = join(process.cwd(), "public", "data", "mena_data.json");
+    menaData = JSON.parse(readFileSync(p, "utf-8")) as MenaJson;
+  } catch { /* file not found — will show zeros until build runs */ }
+  const menaObjects = menaData.objects;
+  const invPanel    = menaData.investments;
+  const acq         = menaData.acquisitions;
+  const ipos        = menaData.ipos;
 
   const gccObjects = menaObjects.filter(
     (o) => GCC_COUNTRIES.has(String(o.country_code ?? "").toUpperCase()),

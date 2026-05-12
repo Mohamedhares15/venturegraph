@@ -51,3 +51,23 @@ push_to_github.ps1
 
 # Course material PDFs
 Week*.pdf
+
+# Submission folder (PDFs/slides — keep locally, not in repo)
+submission/
+
+# Generated / augmented data pipelines
+data_augmented/
+
+# AI tool instruction files
+AGENTS.md
+CLAUDE.md
+
+# Presentation / documentation markdown (not needed in repo)
+demo_script.md
+handout.md
+methodology_appendix.md
+paper_abstract.md
+presentation_slides*.md
+production_roadmap.md
+qa_prep.md
+venturegraph_ssrn_paper.md

@@ -1,6 +1,0 @@
-horizon,alpha_col,pearson_r,p_value,n_obs,signal_dir,dataset
-k=12,alpha_k12,-0.0307,0.7968,73,✓ Works (negative),augmented
-k=18,alpha_k18,0.0469,0.7829,37,✗ Counter (positive),augmented
-k=24,alpha_k24,-0.0535,0.6461,76,✓ Works (negative),augmented
-k=36,alpha_k36,0.049,0.6939,67,✗ Counter (positive),augmented
-k=6,alpha_k6,0.0247,0.8878,35,✗ Counter (positive),augmented

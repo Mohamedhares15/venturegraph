@@ -77,8 +77,8 @@ export default async function PulsePage() {
           </div>
         </div>
         <p className="text-ink-500 text-sm max-w-2xl">
-          Continuous early-warning engine. Live deal-flow ingestion every 15 minutes.
-          Signal detection every 6 hours. Market benchmarking daily.
+          Continuous early-warning engine. Live deal-flow ingestion every 5 minutes.
+          Signal detection every 2 hours. Market benchmarking daily.
           Every signal is SHA-256 sealed and publicly verifiable.
         </p>
       </div>
