@@ -34,7 +34,13 @@ export default async function MenaPulsePage() {
   try {
     const p = join(process.cwd(), "public", "data", "mena_data.json");
     menaData = JSON.parse(readFileSync(p, "utf-8")) as MenaJson;
-  } catch { /* file not found — will show zeros until build runs */ }
+  } catch {
+    try {
+      // Vercel serverless fallback: webpack bundles require() at build time
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      menaData = require("../../../public/data/mena_data.json") as MenaJson;
+    } catch { /* JSON not found — page will show zeros */ }
+  }
   const menaObjects = menaData.objects;
   const invPanel    = menaData.investments;
   const acq         = menaData.acquisitions;
